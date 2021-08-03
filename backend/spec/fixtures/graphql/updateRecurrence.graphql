@@ -1,0 +1,9 @@
+mutation updateRecurrence($input: UpdateRecurrenceInput!){
+  updateRecurrence(input: $input) {
+    clientMutationId
+    errors
+    series {
+      id
+    }
+  }
+}

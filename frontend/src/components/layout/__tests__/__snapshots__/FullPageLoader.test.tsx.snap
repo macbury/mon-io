@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Styled(View)>
+  <ActivityIndicator
+    size={90}
+  />
+</Styled(View)>
+`;

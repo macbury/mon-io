@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose --file docker-compose.production.yaml up --force-recreate

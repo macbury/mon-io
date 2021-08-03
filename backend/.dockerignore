@@ -1,0 +1,10 @@
+log/**/*
+storage/**/*
+tmp/**/*
+.env
+.env.example
+Dockerfile
+.dockerignore
+.git
+vendor/**/*
+spec/**/*

@@ -1,0 +1,12 @@
+---
+en:
+  actions:
+    edit: Edit
+    planned_transaction:
+      cancel: Cancel
+      create: Create transaction
+      edit_series: Edit schedule
+      ignore: Ignore this transaction
+      open_webpage: Open webpage
+      update_current: Update this occurrence
+      update_future: Update this and future occurrences

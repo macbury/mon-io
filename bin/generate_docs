@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+cd backend
+bundle exec rake graphql:schema:idl
+cd ../frontend
+yarn graphql:codegen
+cd ../

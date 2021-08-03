@@ -1,0 +1,9 @@
+mutation createRecurrence($input: CreateRecurrenceInput!){
+  createRecurrence(input: $input) {
+    clientMutationId
+    errors
+    series {
+      id
+    }
+  }
+}

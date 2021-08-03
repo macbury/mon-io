@@ -1,0 +1,8 @@
+mutation createLongLivingToken($input: CreateLongLivingTokenInput!) {
+  createLongLivingToken(input: $input) {
+    refreshToken {
+      id
+    }
+    errors
+  }
+}

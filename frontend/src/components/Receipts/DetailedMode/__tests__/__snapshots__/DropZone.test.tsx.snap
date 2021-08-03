@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Styled(withTheme(TouchableRipple))
+  onPress={[Function]}
+>
+  <View>
+    <input
+      onChange={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+      type="file"
+    />
+    <Styled(withTheme(Text))>
+      Hello world
+    </Styled(withTheme(Text))>
+  </View>
+</Styled(withTheme(TouchableRipple))>
+`;

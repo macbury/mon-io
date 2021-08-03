@@ -1,0 +1,14 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:10
+    ports:
+      - 9382:5432
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      PGDATA: /data
+    volumes:
+      - db-data:/data
+volumes:
+  db-data:

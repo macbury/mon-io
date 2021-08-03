@@ -1,0 +1,13 @@
+---
+en:
+  pages:
+    new_transaction:
+      menu:
+        attach_receipt: Attach bill
+        delete_receipt: Delete bill
+        detach_receipt: Detach bill
+        edit_repeating: Edit schedule
+        show_import: Show import
+        show_receipt: Show bill
+        show_webpage: Show webpage
+      title: New transaction

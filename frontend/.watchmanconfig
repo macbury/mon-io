@@ -1,0 +1,9 @@
+{
+  "ignore_dirs": [
+    "build",
+    "dist",
+    "public",
+    "scripts",
+    "android",
+  ]
+}

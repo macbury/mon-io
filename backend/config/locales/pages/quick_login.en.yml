@@ -1,0 +1,6 @@
+---
+en:
+  pages:
+    quick_login:
+      qr_code: Scan this QR code with your phone
+      title: Authorize device

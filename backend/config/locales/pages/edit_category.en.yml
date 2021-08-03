@@ -1,0 +1,34 @@
+---
+en:
+  pages:
+    edit_category:
+      form:
+        archived: Archived
+        archived_about: This category will no longer appear
+        color: Color
+        currency: Currency
+        description: Description
+        icon: Icon
+        icon_about: Change icon and color
+        name: Name
+        shared: Shared
+        shared_about: Transactions from this category will be seen by other users
+        system_currency: System
+        types:
+          expense:
+            about: Contains transactions that are expenses
+            title: Expense
+          income:
+            about: Contains transactions that are incomes
+            title: Income
+          loans:
+            about: Can contain deposits and value of loan
+            title: Loans
+          saving:
+            about: Can contain withdraws and deposits
+            title: Saving
+      not_found: Could not find category
+      saving_overlay: Saving...
+      system:
+        about: This is system category, you can only change if it is shared or not
+      title: Edit category

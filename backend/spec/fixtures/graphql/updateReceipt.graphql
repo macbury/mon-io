@@ -1,0 +1,11 @@
+mutation updateReceipt($categoryId: ID, $id: ID!) {
+  updateReceipt(input: { categoryId: $categoryId, id: $id }) {
+    errors
+    receipt {
+      id
+      category {
+        id
+      }
+    }
+  }
+}

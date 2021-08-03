@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<SafeAreaView>
+  <Styled(View)
+    locationY={0}
+  >
+    <withTheme(FAB)
+      icon="add"
+      onPress={[Function]}
+    />
+  </Styled(View)>
+</SafeAreaView>
+`;

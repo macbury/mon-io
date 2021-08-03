@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Styled(Link)
+  action={
+    Object {
+      "routeName": "home",
+      "type": "Navigation/NAVIGATE",
+    }
+  }
+  current={false}
+  ripple={true}
+>
+  <Styled(View)
+    current={false}
+  >
+    <Icon
+      name="repeat"
+      size={28}
+    />
+  </Styled(View)>
+</Styled(Link)>
+`;

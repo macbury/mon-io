@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders header with category expense for 10 zl 1`] = `
+<Styled(View)
+  type="Expense"
+>
+  <Styled(View)>
+    <Styled(withTheme(Text))>
+      Expenses
+    </Styled(withTheme(Text))>
+    <GoalBadge
+      amount={
+        Object {
+          "cents": 0,
+          "currency": Object {
+            "id": "PLN",
+            "isoCode": "PLN",
+            "name": "Polish zloty",
+            "subunitToUnit": 100,
+            "symbol": "zł",
+          },
+        }
+      }
+      type="Expense"
+    />
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(View)
+      type="Expense"
+      value={3}
+    />
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(withTheme(Text))
+      type="Expense"
+    >
+      spend 10.00 zł
+    </Styled(withTheme(Text))>
+    <Styled(withTheme(Text))>
+      budgeted 10.00 zł
+    </Styled(withTheme(Text))>
+  </Styled(View)>
+</Styled(View)>
+`;
+
+exports[`renders header with category income for 0 zl 1`] = `
+<Styled(View)
+  type="Income"
+>
+  <Styled(View)>
+    <Styled(withTheme(Text))>
+      Income
+    </Styled(withTheme(Text))>
+    <GoalBadge
+      amount={
+        Object {
+          "cents": 0,
+          "currency": Object {
+            "id": "PLN",
+            "isoCode": "PLN",
+            "name": "Polish zloty",
+            "subunitToUnit": 100,
+            "symbol": "zł",
+          },
+        }
+      }
+      type="Income"
+    />
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(View)
+      type="Income"
+      value={3}
+    />
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(withTheme(Text))
+      type="Income"
+    >
+      received 10.00 zł
+    </Styled(withTheme(Text))>
+    <Styled(withTheme(Text))>
+      budgeted 10.00 zł
+    </Styled(withTheme(Text))>
+  </Styled(View)>
+</Styled(View)>
+`;

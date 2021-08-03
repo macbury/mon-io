@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+cd frontend
+yarn
+yarn graphql:codegen
+API_ENDPOINT=/api yarn build:web
+cd ../backend/
+docker build . -t monio-backend
+cd ../frontend/
+docker build . -t monio

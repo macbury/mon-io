@@ -1,0 +1,12 @@
+---
+en:
+  form:
+    transaction:
+      amount:
+        Deposit: Deposit
+        Expense: Expense
+        Income: Income
+        Loan: Pay off
+        Saving: Saving
+        Tax: How much you need to pay
+        Withdraw: Withdraw

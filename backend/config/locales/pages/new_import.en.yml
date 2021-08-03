@@ -1,0 +1,23 @@
+---
+en:
+  pages:
+    new_import:
+      destroy:
+        title: Removing import with its associated transactions
+      form:
+        category: Category
+        columns:
+          amount: Amount column
+          date: Date column
+          notes: Note column
+        delimiter: Delimiter
+        encoding: Encoding
+        from_line: Skip first lines
+        to_line: Skip last lines
+      menu:
+        destroy: Remove
+        show_transactions: Show transactions
+      not_found: Could not find import
+      title: Import new CSV
+      update:
+        encoding: Updating encoding

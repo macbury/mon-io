@@ -1,0 +1,15 @@
+mutation createReceipt($categoryId: ID, $file: Upload!, $location: LocationInput) {
+  createReceipt(input: { file: $file, categoryId: $categoryId, location: $location }) {
+    errors
+    receipt {
+      id
+      category {
+        id
+      }
+
+      user {
+        id
+      }
+    }
+  }
+}

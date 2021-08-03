@@ -1,0 +1,20 @@
+---
+include:
+- "backend/**/*.rb"
+exclude:
+- frontend/**/*
+- docker/**/*
+- backend/spec/**/*
+- backend/test/**/*
+- backend/vendor/**/*
+- backend/storage/**/*
+- ".bundle/**/*"
+- backend/vendor/**/*
+require: []
+domains: []
+reporters:
+- rubocop
+- require_not_found
+require_paths: []
+plugins: []
+max_files: 5000

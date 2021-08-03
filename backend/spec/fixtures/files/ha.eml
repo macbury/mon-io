@@ -1,0 +1,1739 @@
+Date: Tue, 03 Dec 2019 07:43:06 +0100
+Subject: [Home Assistant Community] Summary
+From: Home Assistant Community summary <noreply@community.home-assistant.io>
+To: "macbury@gmail.com" <macbury@gmail.com>
+Message-ID: <76fcf57c-e49c-4bea-8bce-4249ebc2b36f@community.home-assistant.io>
+Thread-Topic: [Home Assistant Community] Summary
+Thread-Index: AWZlYzRj4V7YBqJTJH62XglWUxAEYQ==
+Mime-version: 1.0
+Content-type: multipart/alternative;
+	boundary="B_3658734834_1552789939"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3658734834_1552789939
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+A brief summary since your last visit on July 22=20
+=20
+
+Since your last visit
+563 3 1=20
+New Topics Unread Notifications Unread Messages=20
+Popular Topics
+Configuration December 2=20
+Help with climate data_template=20
+sephrioth=20
+Here is my automation When entity triggered this automation=E2=80=A6=20
+Error while executing automation automation.climate_auto_mode. Invalid data=
+ for call_service at pos 1: value is not allowed for dictionary value @ data=
+[=E2=80=98hvac_mode=E2=80=99]=20
+0 15 Read  More=20
+=20
+Third  party integrations December 2=20
+Nest Device Access API=20
+Srdjan Rosic
+risk=20
+Google is bringing back API access for Nest Devices at some point (possibly=
+ for a while at least) Right now they=E2=80=99re only offering a way to register i=
+nterest.=20
+1 0 Read  More=20
+=20
+Feature  Requests December 2=20
+REQUEST: Hidden Pages=20
+Scott Darby
+scottdarby=20
+I=E2=80=99ve been developing my lovelace to specific devices and different rooms =
+but the one thing that=E2=80=99s bugging me is that I can=E2=80=99t hide a page at the t=
+op bar of the lovelace menu.=20
+0 4 Read More=20
+=20
+Configuration December 2=20
+SSL Not Secure=20
+John
+jriker1=20
+I think it was and now it isn=E2=80=99t, but anyone know why a site with a GoDadd=
+y SSL certificate would show in Chrome as non secure?=20
+0 5 Read More=20
+=20
+Node-RED December 2=20
+Current State  Node: How to Use If State: In=20
+Tom Pijls
+Tom_Pijls=20
+Hi, I would like to check if my entity is either in state =E2=80=9CHome=E2=80=9D (depic=
+ted below) or =E2=80=9CJust Arrived=E2=80=9D.
+Rather than using the =E2=80=9CIs=E2=80=9D condition, could I use the =E2=80=9CIn=E2=80=9D conditio=
+n in the =E2=80=9CIs State:=E2=80=9D field? I tried to find this in the documentation bu=
+t was unsuccessful. Any help or workaround would be appreciated.=20
+0 6 Read  More=20
+=20
+=20
+Popular Posts=20
+=20
+The software engineers won=E2=80=99t get out of their chairs in case they miss an=
+ error message=E2=80=A6 The bulb will therefore never be changed.=20
+Nick Rout
+nickrout How  many software engineers does it take to replace a light bulb =
+in HA? Read  More=20
+=20
+Pretty cool, I changed the category to =E2=80=9Cshare your projects=E2=80=9D as it fits=
+ better.=20
+Burningstone My  Solution for Controlling Any Android App From Home Assista=
+nt Read  More=20
+=20
+OK. I look after my disabled Mother full time so we have a routine. 07:00 -=
+ 07:30 an alarm notification that the carer has arrived is announced on my M=
+others echo dot. My phone tells me verbally the the front door has been open=
+ed. All the cameras through out the property begin motion detection and ligh=
+ts in the entrance  hall, stairwell and my Mothers bedroom turn on.
+A motion sensor in the wet room tells me unobtrusively that my Mother has b=
+een showered by the carer.
+A sonic distance sensor and a separate camera tell me verbally via my phone=
+ and mycroft that my Mother is headed downstairs on her stair lift. A second=
+ notification tells me verbally that the carer has left when the front door =
+is opened for the second time  in a set period.=20
+John
+skutter A day  in the life of an automated home Read  More=20
+=20
+Hi, I=E2=80=99m back, after some days trying to find some tutorials or documentat=
+ions but I=E2=80=99m still lost=E2=80=A6
+I=E2=80=99m want to integrate the IPX800 V4 to HA.
+As I said, the API is like this : http://IP_addr/api/device.json?key=3Dapikey=
+&SetR=3D1.
+I want to allow to simply control the IPX800 V4 from HA.
+Can anyone help me giving some links to do so ?=20
+Kevin
+Gce Integration API peripheral Read  More=20
+=20
+but tasmota still recognizes it as a new and different light bulb=20
+Probably because of retained config mqtt messages.=20
+O_o
+tom_l How  many software engineers does it take to replace a light bulb in =
+HA? Read  More=20
+=20
+=20
+New for you
+=20
+How  to Shrink the Database Configuration 0 2=20
+=20
+Problem  with condition within action - odd behaviour Configuration 1 7=20
+=20
+How  to toggle switch via mqtt on another Ha instance Configuration 0 5=20
+=20
+Broadlink  RM4 Mini Hardware 0 2=20
+=20
+Wrong  automation Configuration 0 6=20
+   =20
+This summary is sent from Home Assistant Community when we haven't seen you=
+ in a while. Change your email settings, or click here to unsubscribe.=20
+                                                          =20
+
+
+--B_3658734834_1552789939
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta content=3D"text/html; charset=3Dutf-8">
+</head>
+<body dir=3D"ltr" style=3D"text-align:left">
+<div style=3D"box-sizing:border-box; color:#0a0a0a; font-family:Helvetica,Ari=
+al,sans-serif; font-size:14px; font-weight:400; line-height:1.3; margin:0; m=
+in-width:100%; padding:0; width:100%">
+<span style=3D"display:none!important; color:#f3f3f3; font-size:1px; line-hei=
+ght:1px; max-height:0; max-width:0; opacity:0; overflow:hidden; visibility:h=
+idden">A brief summary since your last visit on July 22
+</span>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#03a9f4; width:100%">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"text-align:center; padding:20px 0; font-family:He=
+lvetica,Arial,sans-serif">
+<a href=3D"https://community.home-assistant.io" style=3D"text-decoration:none; =
+font-weight:bold; color:#006699; color:#F9F9F9; font-size:22px; text-decorat=
+ion:none"><img src=3D"https://community-home-assistant-assets.s3.dualstack.us-=
+west-2.amazonaws.com/original/3X/0/2/02caec1dc27f2ba3b11d3a5fe0c0d9fe9f9595d=
+c.png" height=3D"40" alt=3D"Home Assistant Community" style=3D"clear:both; display=
+:block; height:40px; margin:auto; max-width:100%; outline:0; text-decoration=
+:none">
+</a></td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#f3f3f3; padding:0; border-spacing:0; font-family:Helvetica,A=
+rial,sans-serif; font-size:14px; font-weight:200; line-height:1.3; vertical-=
+align:top">
+<tbody>
+<tr>
+<td style=3D"width:5%; vertical-align:top; padding:0">
+<div style=3D"background-color:#2F70AC; color:#FFFFFF">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; padding:0; width:100%">
+<tbody>
+<tr>
+<td height=3D"400px" style=3D"height:400px; border-collapse:collapse!important;=
+ margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+<td style=3D"vertical-align:top; padding:0; font-family:Helvetica,Arial,sans-=
+serif">
+<table dir=3D"ltr" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"background-color:#2F70AC; color:#FFFFFF; border-spacing:0; margin:0; =
+padding:0; text-align:inherit; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-collapse:collapse!important; color:#0a0a0a; line-height:1=
+.3; margin:0; padding:0; text-align:left; vertical-align:top; word-wrap:norm=
+al">
+<br>
+<center style=3D"background-color:#2F70AC; color:#FFFFFF; font-size:22px; fon=
+t-weight:400">
+Since your last visit</center>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"table-la=
+yout:fixed; margin:10px 0 20px 0; padding:0; vertical-align:top; width:100%"=
+>
+<tbody>
+<tr>
+<td style=3D"text-align:center; font-size:36px; font-weight:400"><a href=3D"htt=
+ps://community.home-assistant.io/new" style=3D"text-decoration:none; font-weig=
+ht:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF"><strong>563=
+</strong></a>
+</td>
+<td style=3D"text-align:center; font-size:36px; font-weight:400"><a href=3D"htt=
+ps://community.home-assistant.io/my/notifications" style=3D"text-decoration:no=
+ne; font-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF=
+"><strong>3</strong></a>
+</td>
+<td style=3D"text-align:center; font-size:36px; font-weight:400"><a href=3D"htt=
+ps://community.home-assistant.io/my/messages" style=3D"text-decoration:none; f=
+ont-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF"><st=
+rong>1</strong></a>
+</td>
+</tr>
+<tr>
+<td style=3D"font-size:14px; font-weight:400; text-align:center"><a href=3D"htt=
+ps://community.home-assistant.io/new" style=3D"text-decoration:none; font-weig=
+ht:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF"><strong>New=
+ Topics</strong></a>
+</td>
+<td style=3D"font-size:14px; font-weight:400; text-align:center"><a href=3D"htt=
+ps://community.home-assistant.io/my/notifications" style=3D"text-decoration:no=
+ne; font-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF=
+"><strong>Unread Notifications</strong></a>
+</td>
+<td style=3D"font-size:14px; font-weight:400; text-align:center"><a href=3D"htt=
+ps://community.home-assistant.io/my/messages" style=3D"text-decoration:none; f=
+ont-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF"><st=
+rong>Unread Messages</strong></a>
+</td>
+</tr>
+</tbody>
+</table>
+<center style=3D"background-color:#2F70AC; color:#FFFFFF; font-size:22px; fon=
+t-weight:400; margin-bottom:8px">
+Popular Topics</center>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-spacing:0; background:#fefefe; margin:0; padding:0; text-align=
+:center; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-collapse:collapse!important; color:#0a0a0a; line-height:1=
+.3; margin:0; padding:0; text-align:left; vertical-align:top; word-wrap:norm=
+al">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td style=3D"margin:0; padding:0 0 0 16px; text-align:left; vertical-align:to=
+p">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0"><a href=3D"https=
+://community.home-assistant.io/c/configuration" style=3D"text-decoration:none;=
+ font-weight:bold; color:#006699; font-size:0.857em; white-space:nowrap; dis=
+play:inline-block; line-height:1; margin-right:10px"><span style=3D"background=
+-color:#3AB54A; display:inline-block; width:10px; height:10px"></span><span =
+title=3D"Questions about configuring Home Assistant to automate your house." s=
+tyle=3D"color:#222222; vertical-align:text-top; line-height:1; margin-left:4px=
+; padding-left:2px; display:inline; max-width:150px; overflow:hidden; text-o=
+verflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"margin:0; padding:0 16px 0 0; text-align:right; vertical-align:t=
+op">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0; font-weight:40=
+0">December 2
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"vertical=
+-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 16px; text-align:left; width:100%">
+<h2 style=3D"font-size:18px; font-weight:400; line-height:1.3; margin:0; padd=
+ing:0; word-wrap:normal">
+<a href=3D"https://community.home-assistant.io/t/help-with-climate-data-templ=
+ate/152181" style=3D"text-decoration:none; font-weight:bold; color:#006699; fo=
+nt-weight:400; line-height:1.3; margin:0; padding:0; text-decoration:none"><=
+strong>Help with climate data_template</strong>
+</a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; line-height:1.3; margin:0 auto; padding:0 0 0 16p=
+x; width:50px">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/sephrioth/45/39706_2.png" align=3D"center" style=3D"border-radius:50%=
+; clear:both; display:block; float:none; height:50px; width:50px; margin:0; =
+max-width:100%; outline:0; text-align:center; text-decoration:none">
+</td>
+<td style=3D"color:#0a0a0a; padding:0 16px 0 8px; text-align:left; vertical-a=
+lign:top">
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+sephrioth</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-b=
+ottom:1px solid #f3f3f3; padding:0; text-align:left; vertical-align:top; wid=
+th:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; padding:0 16px 0 16px; text-align=
+:left; width:100%; font-weight:normal">
+<p>Here is my automation</p>
+<p>When entity triggered this automation=E2=80=A6</p>
+<blockquote style=3D"border-left:5px solid #e9e9e9; background-color:#f8f8f8;=
+ margin:0">
+<p style=3D"padding:1em">Error while executing automation automation.climate_=
+auto_mode. Invalid data for call_service at pos 1: value is not allowed for =
+dictionary value @ data[=E2=80=98hvac_mode=E2=80=99]</p>
+</blockquote>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%; margin-top:20px">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 16px 16px; text-align:left; white-space:nowrap; ve=
+rtical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/heart.png" styl=
+e=3D"clear:both; display:inline-block; float:left; height:20px; margin:0; max-=
+width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/comment.png" st=
+yle=3D"clear:none; display:inline-block; float:left; height:20px; margin:0; ma=
+x-width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+15</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/sephrioth/45/39706_2.png" style=3D"border-radius:50%; clear:both; d=
+isplay:inline-block; height:20px; width:20px; outline:0; text-decoration:non=
+e">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/123/45/44349_2.png" style=3D"border-radius:50%; clear:both; display=
+:inline-block; height:20px; width:20px; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/burningstone/45/34318_2.png" style=3D"border-radius:50%; clear:both=
+; display:inline-block; height:20px; width:20px; outline:0; text-decoration:=
+none">
+</td>
+<td style=3D"line-height:1.3; padding:0 16px 0 8px; text-align:right; white-s=
+pace:nowrap; vertical-align:top">
+<a href=3D"https://community.home-assistant.io/t/help-with-climate-data-templ=
+ate/152181" style=3D"text-decoration:none; font-weight:bold; color:#006699; ba=
+ckground-color:#2F70AC; color:#FFFFFF; width:100%; text-decoration:none; pad=
+ding:8px 16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; width:100%">
+<tbody>
+<tr>
+<td height=3D"20px" style=3D"border-collapse:collapse!important; line-height:20=
+px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td style=3D"margin:0; padding:0 0 0 16px; text-align:left; vertical-align:to=
+p">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0"><a href=3D"https=
+://community.home-assistant.io/c/third-party" style=3D"text-decoration:none; f=
+ont-weight:bold; color:#006699; font-size:0.857em; white-space:nowrap; displ=
+ay:inline-block; line-height:1; margin-right:10px"><span style=3D"background-c=
+olor:#AB9364; display:inline-block; width:10px; height:10px"></span><span ti=
+tle=3D"Questions about third party integrations including projects created to =
+work specifically with Home Assistant as well as 3rd party devices such as A=
+lexa." style=3D"color:#222222; vertical-align:text-top; line-height:1; margin-=
+left:4px; padding-left:2px; display:inline; max-width:150px; overflow:hidden=
+; text-overflow:ellipsis">Third
+ party integrations</span></a> </p>
+</td>
+<td style=3D"margin:0; padding:0 16px 0 0; text-align:right; vertical-align:t=
+op">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0; font-weight:40=
+0">December 2
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"vertical=
+-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 16px; text-align:left; width:100%">
+<h2 style=3D"font-size:18px; font-weight:400; line-height:1.3; margin:0; padd=
+ing:0; word-wrap:normal">
+<a href=3D"https://community.home-assistant.io/t/nest-device-access-api/15234=
+4" style=3D"text-decoration:none; font-weight:bold; color:#006699; font-weight=
+:400; line-height:1.3; margin:0; padding:0; text-decoration:none"><strong>Ne=
+st Device Access API</strong>
+</a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; line-height:1.3; margin:0 auto; padding:0 0 0 16p=
+x; width:50px">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/risk/45/71329_2.png" align=3D"center" style=3D"border-radius:50%; cle=
+ar:both; display:block; float:none; height:50px; width:50px; margin:0; max-w=
+idth:100%; outline:0; text-align:center; text-decoration:none">
+</td>
+<td style=3D"color:#0a0a0a; padding:0 16px 0 8px; text-align:left; vertical-a=
+lign:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+Srdjan Rosic</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+risk</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-b=
+ottom:1px solid #f3f3f3; padding:0; text-align:left; vertical-align:top; wid=
+th:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; padding:0 16px 0 16px; text-align=
+:left; width:100%; font-weight:normal">
+<p>Google is bringing back API access for Nest Devices at some point (possi=
+bly for a while at least)</p>
+<p>Right now they=E2=80=99re only offering a way to register interest.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%; margin-top:20px">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 16px 16px; text-align:left; white-space:nowrap; ve=
+rtical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/heart.png" styl=
+e=3D"clear:both; display:inline-block; float:left; height:20px; margin:0; max-=
+width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+1</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/comment.png" st=
+yle=3D"clear:none; display:inline-block; float:left; height:20px; margin:0; ma=
+x-width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/risk/45/71329_2.png" style=3D"border-radius:50%; clear:both; displa=
+y:inline-block; height:20px; width:20px; outline:0; text-decoration:none">
+</td>
+<td style=3D"line-height:1.3; padding:0 16px 0 8px; text-align:right; white-s=
+pace:nowrap; vertical-align:top">
+<a href=3D"https://community.home-assistant.io/t/nest-device-access-api/15234=
+4" style=3D"text-decoration:none; font-weight:bold; color:#006699; background-=
+color:#2F70AC; color:#FFFFFF; width:100%; text-decoration:none; padding:8px =
+16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; width:100%">
+<tbody>
+<tr>
+<td height=3D"20px" style=3D"border-collapse:collapse!important; line-height:20=
+px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td style=3D"margin:0; padding:0 0 0 16px; text-align:left; vertical-align:to=
+p">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0"><a href=3D"https=
+://community.home-assistant.io/c/feature-requests" style=3D"text-decoration:no=
+ne; font-weight:bold; color:#006699; font-size:0.857em; white-space:nowrap; =
+display:inline-block; line-height:1; margin-right:10px"><span style=3D"backgro=
+und-color:#652D90; display:inline-block; width:10px; height:10px"></span><sp=
+an title=3D"Suggest a feature, get fellow users to vote on it and see it happe=
+n." style=3D"color:#222222; vertical-align:text-top; line-height:1; margin-lef=
+t:4px; padding-left:2px; display:inline; max-width:150px; overflow:hidden; t=
+ext-overflow:ellipsis">Feature
+ Requests</span></a> </p>
+</td>
+<td style=3D"margin:0; padding:0 16px 0 0; text-align:right; vertical-align:t=
+op">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0; font-weight:40=
+0">December 2
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"vertical=
+-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 16px; text-align:left; width:100%">
+<h2 style=3D"font-size:18px; font-weight:400; line-height:1.3; margin:0; padd=
+ing:0; word-wrap:normal">
+<a href=3D"https://community.home-assistant.io/t/request-hidden-pages/152237"=
+ style=3D"text-decoration:none; font-weight:bold; color:#006699; font-weight:4=
+00; line-height:1.3; margin:0; padding:0; text-decoration:none"><strong>REQU=
+EST: Hidden Pages</strong>
+</a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; line-height:1.3; margin:0 auto; padding:0 0 0 16p=
+x; width:50px">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/scottdarby/45/48055_2.png" align=3D"center" style=3D"border-radius:50=
+%; clear:both; display:block; float:none; height:50px; width:50px; margin:0;=
+ max-width:100%; outline:0; text-align:center; text-decoration:none">
+</td>
+<td style=3D"color:#0a0a0a; padding:0 16px 0 8px; text-align:left; vertical-a=
+lign:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+Scott Darby</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+scottdarby</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-b=
+ottom:1px solid #f3f3f3; padding:0; text-align:left; vertical-align:top; wid=
+th:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; padding:0 16px 0 16px; text-align=
+:left; width:100%; font-weight:normal">
+<p>I=E2=80=99ve been developing my lovelace to specific devices and different roo=
+ms but the one thing that=E2=80=99s bugging me is that I can=E2=80=99t hide a page at th=
+e top bar of the lovelace menu.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%; margin-top:20px">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 16px 16px; text-align:left; white-space:nowrap; ve=
+rtical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/heart.png" styl=
+e=3D"clear:both; display:inline-block; float:left; height:20px; margin:0; max-=
+width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/comment.png" st=
+yle=3D"clear:none; display:inline-block; float:left; height:20px; margin:0; ma=
+x-width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+4</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/scottdarby/45/48055_2.png" style=3D"border-radius:50%; clear:both; =
+display:inline-block; height:20px; width:20px; outline:0; text-decoration:no=
+ne">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/aidbish/45/40805_2.png" style=3D"border-radius:50%; clear:both; dis=
+play:inline-block; height:20px; width:20px; outline:0; text-decoration:none"=
+>
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/mbonani/45/74296_2.png" style=3D"border-radius:50%; clear:both; dis=
+play:inline-block; height:20px; width:20px; outline:0; text-decoration:none"=
+>
+</td>
+<td style=3D"line-height:1.3; padding:0 16px 0 8px; text-align:right; white-s=
+pace:nowrap; vertical-align:top">
+<a href=3D"https://community.home-assistant.io/t/request-hidden-pages/152237"=
+ style=3D"text-decoration:none; font-weight:bold; color:#006699; background-co=
+lor:#2F70AC; color:#FFFFFF; width:100%; text-decoration:none; padding:8px 16=
+px; white-space:nowrap">Read More
+</a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; width:100%">
+<tbody>
+<tr>
+<td height=3D"20px" style=3D"border-collapse:collapse!important; line-height:20=
+px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td style=3D"margin:0; padding:0 0 0 16px; text-align:left; vertical-align:to=
+p">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0"><a href=3D"https=
+://community.home-assistant.io/c/configuration" style=3D"text-decoration:none;=
+ font-weight:bold; color:#006699; font-size:0.857em; white-space:nowrap; dis=
+play:inline-block; line-height:1; margin-right:10px"><span style=3D"background=
+-color:#3AB54A; display:inline-block; width:10px; height:10px"></span><span =
+title=3D"Questions about configuring Home Assistant to automate your house." s=
+tyle=3D"color:#222222; vertical-align:text-top; line-height:1; margin-left:4px=
+; padding-left:2px; display:inline; max-width:150px; overflow:hidden; text-o=
+verflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"margin:0; padding:0 16px 0 0; text-align:right; vertical-align:t=
+op">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0; font-weight:40=
+0">December 2
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"vertical=
+-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 16px; text-align:left; width:100%">
+<h2 style=3D"font-size:18px; font-weight:400; line-height:1.3; margin:0; padd=
+ing:0; word-wrap:normal">
+<a href=3D"https://community.home-assistant.io/t/ssl-not-secure/152319" style=
+=3D"text-decoration:none; font-weight:bold; color:#006699; font-weight:400; li=
+ne-height:1.3; margin:0; padding:0; text-decoration:none"><strong>SSL Not Se=
+cure</strong>
+</a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; line-height:1.3; margin:0 auto; padding:0 0 0 16p=
+x; width:50px">
+<img src=3D"https://community.home-assistant.io/letter_avatar/jriker1/45/5_85=
+04b32b4165840149d2c3dd52eb0686.png" align=3D"center" style=3D"border-radius:50%;=
+ clear:both; display:block; float:none; height:50px; width:50px; margin:0; m=
+ax-width:100%; outline:0; text-align:center; text-decoration:none">
+</td>
+<td style=3D"color:#0a0a0a; padding:0 16px 0 8px; text-align:left; vertical-a=
+lign:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+John</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+jriker1</p>
+</td>
+<td align=3D"right" style=3D"margin:0; padding:0 16px 0 8px; text-align:right">=
+<img src=3D"https://community-home-assistant-assets.s3.dualstack.us-west-2.ama=
+zonaws.com/original/3X/e/8/e8479279bd3ebc4f0098840fa9c9658d0ef9ae3a.png" hei=
+ght=3D"64" style=3D"margin:auto; max-height:64px; max-width:100%; outline:0; tex=
+t-align:right; text-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-b=
+ottom:1px solid #f3f3f3; padding:0; text-align:left; vertical-align:top; wid=
+th:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; padding:0 16px 0 16px; text-align=
+:left; width:100%; font-weight:normal">
+<p>I think it was and now it isn=E2=80=99t, but anyone know why a site with a GoD=
+addy SSL certificate would show in Chrome as non secure?</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%; margin-top:20px">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 16px 16px; text-align:left; white-space:nowrap; ve=
+rtical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/heart.png" styl=
+e=3D"clear:both; display:inline-block; float:left; height:20px; margin:0; max-=
+width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/comment.png" st=
+yle=3D"clear:none; display:inline-block; float:left; height:20px; margin:0; ma=
+x-width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+5</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top">
+<img src=3D"https://community.home-assistant.io/letter_avatar/jriker1/45/5_85=
+04b32b4165840149d2c3dd52eb0686.png" style=3D"border-radius:50%; clear:both; di=
+splay:inline-block; height:20px; width:20px; outline:0; text-decoration:none=
+">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/kayhold/45/82064_2.png" style=3D"border-radius:50%; clear:both; dis=
+play:inline-block; height:20px; width:20px; outline:0; text-decoration:none"=
+>
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/neohidra/45/19354_2.png" style=3D"border-radius:50%; clear:both; di=
+splay:inline-block; height:20px; width:20px; outline:0; text-decoration:none=
+">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/firstof9/45/50288_2.png" style=3D"border-radius:50%; clear:both; di=
+splay:inline-block; height:20px; width:20px; outline:0; text-decoration:none=
+">
+</td>
+<td style=3D"line-height:1.3; padding:0 16px 0 8px; text-align:right; white-s=
+pace:nowrap; vertical-align:top">
+<a href=3D"https://community.home-assistant.io/t/ssl-not-secure/152319" style=
+=3D"text-decoration:none; font-weight:bold; color:#006699; background-color:#2=
+F70AC; color:#FFFFFF; width:100%; text-decoration:none; padding:8px 16px; wh=
+ite-space:nowrap">Read More
+</a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; width:100%">
+<tbody>
+<tr>
+<td height=3D"20px" style=3D"border-collapse:collapse!important; line-height:20=
+px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td style=3D"margin:0; padding:0 0 0 16px; text-align:left; vertical-align:to=
+p">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0"><a href=3D"https=
+://community.home-assistant.io/c/third-party/node-red" style=3D"text-decoratio=
+n:none; font-weight:bold; color:#006699; font-size:0.857em; white-space:nowr=
+ap; display:inline-block; line-height:1; margin-right:10px"><span style=3D"bac=
+kground-color:#AB9364; display:inline-block; width:5px; height:10px; line-he=
+ight:1"></span><span style=3D"background-color:#92278F; display:inline-block; =
+width:5px; height:10px"></span><span title=3D"The place for Node-RED integrati=
+ons." style=3D"color:#222222; vertical-align:text-top; line-height:1; margin-l=
+eft:4px; padding-left:2px; display:inline; max-width:150px; overflow:hidden;=
+ text-overflow:ellipsis">Node-RED</span></a>
+</p>
+</td>
+<td style=3D"margin:0; padding:0 16px 0 0; text-align:right; vertical-align:t=
+op">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:20px 0 0 0; font-weight:40=
+0">December 2
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"vertical=
+-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 16px; text-align:left; width:100%">
+<h2 style=3D"font-size:18px; font-weight:400; line-height:1.3; margin:0; padd=
+ing:0; word-wrap:normal">
+<a href=3D"https://community.home-assistant.io/t/current-state-node-how-to-us=
+e-if-state-in/152178" style=3D"text-decoration:none; font-weight:bold; color:#=
+006699; font-weight:400; line-height:1.3; margin:0; padding:0; text-decorati=
+on:none"><strong>Current State
+ Node: How to Use If State: In</strong> </a></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; line-height:1.3; margin:0 auto; padding:0 0 0 16p=
+x; width:50px">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/tom_pijls/45/46132_2.png" align=3D"center" style=3D"border-radius:50%=
+; clear:both; display:block; float:none; height:50px; width:50px; margin:0; =
+max-width:100%; outline:0; text-align:center; text-decoration:none">
+</td>
+<td style=3D"color:#0a0a0a; padding:0 16px 0 8px; text-align:left; vertical-a=
+lign:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+Tom Pijls</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+Tom_Pijls</p>
+</td>
+<td align=3D"right" style=3D"margin:0; padding:0 16px 0 8px; text-align:right">=
+<img src=3D"https://community-home-assistant-assets.s3.dualstack.us-west-2.ama=
+zonaws.com/optimized/3X/5/c/5c6692e6071627ba7118c523418a1d701578128d_2_441x5=
+00.png" height=3D"64" style=3D"margin:auto; max-height:64px; max-width:100%; out=
+line:0; text-align:right; text-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-b=
+ottom:1px solid #f3f3f3; padding:0; text-align:left; vertical-align:top; wid=
+th:100%">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; padding:0 16px 0 16px; text-align=
+:left; width:100%; font-weight:normal">
+<p>Hi,</p>
+<p>I would like to check if my entity is either in state =E2=80=9CHome=E2=80=9D (depict=
+ed below) or =E2=80=9CJust Arrived=E2=80=9D.<br>
+Rather than using the =E2=80=9CIs=E2=80=9D condition, could I use the =E2=80=9CIn=E2=80=9D conditio=
+n in the =E2=80=9CIs State:=E2=80=9D field? I tried to find this in the documentation bu=
+t was unsuccessful. Any help or workaround would be appreciated.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%; margin-top:20px">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 16px 16px; text-align:left; white-space:nowrap; ve=
+rtical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/heart.png" styl=
+e=3D"clear:both; display:inline-block; float:left; height:20px; margin:0; max-=
+width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top; width:75px">
+<img src=3D"https://community.home-assistant.io/images/emails/comment.png" st=
+yle=3D"clear:none; display:inline-block; float:left; height:20px; margin:0; ma=
+x-width:100%; opacity:.4; outline:0; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+6</p>
+</td>
+<td style=3D"padding:0 8px 16px 8px; text-align:left; white-space:nowrap; ver=
+tical-align:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/tom_pijls/45/46132_2.png" style=3D"border-radius:50%; clear:both; d=
+isplay:inline-block; height:20px; width:20px; outline:0; text-decoration:non=
+e">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/greengolfer/45/85415_2.png" style=3D"border-radius:50%; clear:both;=
+ display:inline-block; height:20px; width:20px; outline:0; text-decoration:n=
+one">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/mbonani/45/74296_2.png" style=3D"border-radius:50%; clear:both; dis=
+play:inline-block; height:20px; width:20px; outline:0; text-decoration:none"=
+>
+</td>
+<td style=3D"line-height:1.3; padding:0 16px 0 8px; text-align:right; white-s=
+pace:nowrap; vertical-align:top">
+<a href=3D"https://community.home-assistant.io/t/current-state-node-how-to-us=
+e-if-state-in/152178" style=3D"text-decoration:none; font-weight:bold; color:#=
+006699; background-color:#2F70AC; color:#FFFFFF; width:100%; text-decoration=
+:none; padding:8px 16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; width:100%">
+<tbody>
+<tr>
+<td height=3D"20px" style=3D"border-collapse:collapse!important; line-height:20=
+px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"width:5%; vertical-align:top; padding:0">
+<div style=3D"background-color:#2F70AC; color:#FFFFFF">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; padding:0; width:100%">
+<tbody>
+<tr>
+<td height=3D"400px" style=3D"height:400px; border-collapse:collapse!important;=
+ margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<center style=3D"color:#0a0a0a; background:#f3f3f3; font-size:22px; font-weig=
+ht:400; padding:20px 0; font-family:Helvetica,Arial,sans-serif">
+Popular Posts </center>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#f3f3f3; border-spacing:0; border-collapse:collapse!important=
+; font-family:Helvetica,Arial,sans-serif; font-size:14px; font-weight:200; l=
+ine-height:1.3; padding:0; text-align:left; vertical-align:top">
+<tbody>
+<tr>
+<td style=3D"width:5%; padding:0">&nbsp;</td>
+<td align=3D"center" valign=3D"top" style=3D"width:90%; border-collapse:collapse!=
+important; line-height:1.3; margin:0; padding:0; text-align:left; vertical-a=
+lign:top">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#fefefe; border-spacing:0; padding:0; text-align:left; vertic=
+al-align:top">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; font-weight:normal; padding:16px;=
+ text-align:left; width:100%">
+<p>The software engineers won=E2=80=99t get out of their chairs in case they miss=
+ an error message=E2=80=A6</p>
+<p>The bulb will therefore never be changed.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; background-color:#f3f3f3; padding:0; text-align:left; vertical-ali=
+gn:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-spacing:0; padding:0; color:#0a0a0a; line-height:1.3; pad=
+ding:0 0 0 65px; text-align:left">
+<img src=3D"https://community.home-assistant.io/images/emails/right_triangle.=
+png" style=3D"clear:both; display:block; height:20px; width:20px; outline:0; t=
+ext-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#f3f3f3; padding:0; text-align:left; vertical-align:top; width:100%=
+">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 8px; text-align:left; width:50px; vertical-ali=
+gn:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/nickrout/45/27020_2.png" style=3D"border-radius:50%; clear:both; di=
+splay:block; height:50px; width:50px; outline:0">
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; vertical-=
+align:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+Nick Rout</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+nickrout</p>
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; text-alig=
+n:right">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:right">
+<a href=3D"https://community.home-assistant.io/t/how-many-software-engineers-=
+does-it-take-to-replace-a-light-bulb-in-ha/151459/2" style=3D"text-decoration:=
+none; font-weight:bold; color:#006699; font-weight:400; line-height:1.3; mar=
+gin:0; padding:0; text-align:left; text-decoration:none">How
+ many software engineers does it take to replace a light bulb in HA?</a> </=
+p>
+<a href=3D"https://community.home-assistant.io/t/how-many-software-engineers-=
+does-it-take-to-replace-a-light-bulb-in-ha/151459/2" style=3D"text-decoration:=
+none; font-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFF=
+FF; width:100%; text-decoration:none; padding:8px 16px; white-space:nowrap">=
+Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td height=3D"40" style=3D"border-collapse:collapse!important; color:#0a0a0a; f=
+ont-size:40px; font-weight:400; line-height:40px; margin:0; padding:0; text-=
+align:left; vertical-align:top; word-wrap:normal">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#fefefe; border-spacing:0; padding:0; text-align:left; vertic=
+al-align:top">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; font-weight:normal; padding:16px;=
+ text-align:left; width:100%">
+<p>Pretty cool, I changed the category to =E2=80=9Cshare your projects=E2=80=9D as it f=
+its better.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; background-color:#f3f3f3; padding:0; text-align:left; vertical-ali=
+gn:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-spacing:0; padding:0; color:#0a0a0a; line-height:1.3; pad=
+ding:0 0 0 65px; text-align:left">
+<img src=3D"https://community.home-assistant.io/images/emails/right_triangle.=
+png" style=3D"clear:both; display:block; height:20px; width:20px; outline:0; t=
+ext-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#f3f3f3; padding:0; text-align:left; vertical-align:top; width:100%=
+">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 8px; text-align:left; width:50px; vertical-ali=
+gn:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/burningstone/45/34318_2.png" style=3D"border-radius:50%; clear:both=
+; display:block; height:50px; width:50px; outline:0">
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; vertical-=
+align:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+Burningstone</p>
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; text-alig=
+n:right">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:right">
+<a href=3D"https://community.home-assistant.io/t/my-solution-for-controlling-=
+any-android-app-from-home-assistant/151613/2" style=3D"text-decoration:none; f=
+ont-weight:bold; color:#006699; font-weight:400; line-height:1.3; margin:0; =
+padding:0; text-align:left; text-decoration:none">My
+ Solution for Controlling Any Android App From Home Assistant</a> </p>
+<a href=3D"https://community.home-assistant.io/t/my-solution-for-controlling-=
+any-android-app-from-home-assistant/151613/2" style=3D"text-decoration:none; f=
+ont-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFFFF; wid=
+th:100%; text-decoration:none; padding:8px 16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td height=3D"40" style=3D"border-collapse:collapse!important; color:#0a0a0a; f=
+ont-size:40px; font-weight:400; line-height:40px; margin:0; padding:0; text-=
+align:left; vertical-align:top; word-wrap:normal">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#fefefe; border-spacing:0; padding:0; text-align:left; vertic=
+al-align:top">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; font-weight:normal; padding:16px;=
+ text-align:left; width:100%">
+<p>OK. I look after my disabled Mother full time so we have a routine.</p>
+<p>07:00 - 07:30 an alarm notification that the carer has arrived is announ=
+ced on my Mothers echo dot. My phone tells me verbally the the front door ha=
+s been opened. All the cameras through out the property begin motion detecti=
+on and lights in the entrance
+ hall, stairwell and my Mothers bedroom turn on.<br>
+A motion sensor in the wet room tells me unobtrusively that my Mother has b=
+een showered by the carer.<br>
+A sonic distance sensor and a separate camera tell me verbally via my phone=
+ and mycroft that my Mother is headed downstairs on her stair lift. A second=
+ notification tells me verbally that the carer has left when the front door =
+is opened for the second time
+ in a set period.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; background-color:#f3f3f3; padding:0; text-align:left; vertical-ali=
+gn:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-spacing:0; padding:0; color:#0a0a0a; line-height:1.3; pad=
+ding:0 0 0 65px; text-align:left">
+<img src=3D"https://community.home-assistant.io/images/emails/right_triangle.=
+png" style=3D"clear:both; display:block; height:20px; width:20px; outline:0; t=
+ext-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#f3f3f3; padding:0; text-align:left; vertical-align:top; width:100%=
+">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 8px; text-align:left; width:50px; vertical-ali=
+gn:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/skutter/45/90567_2.png" style=3D"border-radius:50%; clear:both; dis=
+play:block; height:50px; width:50px; outline:0">
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; vertical-=
+align:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+John</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+skutter</p>
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; text-alig=
+n:right">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:right">
+<a href=3D"https://community.home-assistant.io/t/a-day-in-the-life-of-an-auto=
+mated-home/151183/2" style=3D"text-decoration:none; font-weight:bold; color:#0=
+06699; font-weight:400; line-height:1.3; margin:0; padding:0; text-align:lef=
+t; text-decoration:none">A day
+ in the life of an automated home</a> </p>
+<a href=3D"https://community.home-assistant.io/t/a-day-in-the-life-of-an-auto=
+mated-home/151183/2" style=3D"text-decoration:none; font-weight:bold; color:#0=
+06699; background-color:#2F70AC; color:#FFFFFF; width:100%; text-decoration:=
+none; padding:8px 16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td height=3D"40" style=3D"border-collapse:collapse!important; color:#0a0a0a; f=
+ont-size:40px; font-weight:400; line-height:40px; margin:0; padding:0; text-=
+align:left; vertical-align:top; word-wrap:normal">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#fefefe; border-spacing:0; padding:0; text-align:left; vertic=
+al-align:top">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; font-weight:normal; padding:16px;=
+ text-align:left; width:100%">
+<p>Hi,</p>
+<p>I=E2=80=99m back, after some days trying to find some tutorials or documentati=
+ons but I=E2=80=99m still lost=E2=80=A6<br>
+I=E2=80=99m want to integrate the IPX800 V4 to HA.<br>
+As I said, the API is like this : http://IP_addr/api/device.json?key=3Dapikey=
+&amp;SetR=3D1.<br>
+I want to allow to simply control the IPX800 V4 from HA.<br>
+Can anyone help me giving some links to do so ?</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; background-color:#f3f3f3; padding:0; text-align:left; vertical-ali=
+gn:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-spacing:0; padding:0; color:#0a0a0a; line-height:1.3; pad=
+ding:0 0 0 65px; text-align:left">
+<img src=3D"https://community.home-assistant.io/images/emails/right_triangle.=
+png" style=3D"clear:both; display:block; height:20px; width:20px; outline:0; t=
+ext-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#f3f3f3; padding:0; text-align:left; vertical-align:top; width:100%=
+">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 8px; text-align:left; width:50px; vertical-ali=
+gn:top">
+<img src=3D"https://community.home-assistant.io/letter_avatar/gce/45/5_8504b3=
+2b4165840149d2c3dd52eb0686.png" style=3D"border-radius:50%; clear:both; displa=
+y:block; height:50px; width:50px; outline:0">
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; vertical-=
+align:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+Kevin</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+Gce</p>
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; text-alig=
+n:right">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:right">
+<a href=3D"https://community.home-assistant.io/t/integration-api-peripheral/1=
+46721/8" style=3D"text-decoration:none; font-weight:bold; color:#006699; font-=
+weight:400; line-height:1.3; margin:0; padding:0; text-align:left; text-deco=
+ration:none">Integration API peripheral</a>
+</p>
+<a href=3D"https://community.home-assistant.io/t/integration-api-peripheral/1=
+46721/8" style=3D"text-decoration:none; font-weight:bold; color:#006699; backg=
+round-color:#2F70AC; color:#FFFFFF; width:100%; text-decoration:none; paddin=
+g:8px 16px; white-space:nowrap">Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td height=3D"40" style=3D"border-collapse:collapse!important; color:#0a0a0a; f=
+ont-size:40px; font-weight:400; line-height:40px; margin:0; padding:0; text-=
+align:left; vertical-align:top; word-wrap:normal">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#fefefe; border-spacing:0; padding:0; text-align:left; vertic=
+al-align:top">
+<tbody>
+<tr>
+<td style=3D"color:#0a0a0a; font-size:14px; font-weight:normal; padding:16px;=
+ text-align:left; width:100%">
+<blockquote style=3D"border-left:5px solid #e9e9e9; background-color:#f8f8f8;=
+ margin:0">
+<p style=3D"padding:1em">but tasmota still recognizes it as a new and differe=
+nt light bulb</p>
+</blockquote>
+<p>Probably because of retained config mqtt messages.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"border-s=
+pacing:0; background-color:#f3f3f3; padding:0; text-align:left; vertical-ali=
+gn:top; width:100%">
+<tbody>
+<tr>
+<td style=3D"border-spacing:0; padding:0; color:#0a0a0a; line-height:1.3; pad=
+ding:0 0 0 65px; text-align:left">
+<img src=3D"https://community.home-assistant.io/images/emails/right_triangle.=
+png" style=3D"clear:both; display:block; height:20px; width:20px; outline:0; t=
+ext-decoration:none">
+</td>
+</tr>
+</tbody>
+</table>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"backgrou=
+nd-color:#f3f3f3; padding:0; text-align:left; vertical-align:top; width:100%=
+">
+<tbody>
+<tr>
+<td style=3D"padding:0 8px 8px 8px; text-align:left; width:50px; vertical-ali=
+gn:top">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/tom_l/45/39524_2.png" style=3D"border-radius:50%; clear:both; displ=
+ay:block; height:50px; width:50px; outline:0">
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; vertical-=
+align:top">
+<h6 style=3D"color:inherit; line-height:1.3; margin:0; padding:0; font-weight=
+:normal; font-size:16px">
+O_o</h6>
+<p style=3D"color:inherit; font-size:14px; font-weight:400; line-height:1.3; =
+margin:0 0 8px 0; padding:0; word-wrap:normal">
+tom_l</p>
+</td>
+<td style=3D"color:#0a0a0a; line-height:1.3; padding:0 8px 8px 8px; text-alig=
+n:right">
+<p style=3D"color:#8f8f8f; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:right">
+<a href=3D"https://community.home-assistant.io/t/how-many-software-engineers-=
+does-it-take-to-replace-a-light-bulb-in-ha/151459/4" style=3D"text-decoration:=
+none; font-weight:bold; color:#006699; font-weight:400; line-height:1.3; mar=
+gin:0; padding:0; text-align:left; text-decoration:none">How
+ many software engineers does it take to replace a light bulb in HA?</a> </=
+p>
+<a href=3D"https://community.home-assistant.io/t/how-many-software-engineers-=
+does-it-take-to-replace-a-light-bulb-in-ha/151459/4" style=3D"text-decoration:=
+none; font-weight:bold; color:#006699; background-color:#2F70AC; color:#FFFF=
+FF; width:100%; text-decoration:none; padding:8px 16px; white-space:nowrap">=
+Read
+ More </a></td>
+</tr>
+</tbody>
+</table>
+<div style=3D"background-color:#f3f3f3">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr>
+<td height=3D"40" style=3D"border-collapse:collapse!important; color:#0a0a0a; f=
+ont-size:40px; font-weight:400; line-height:40px; margin:0; padding:0; text-=
+align:left; vertical-align:top; word-wrap:normal">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+<td style=3D"width:5%; padding:0">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<center style=3D"color:#0a0a0a; background:#f3f3f3; font-size:22px; font-weig=
+ht:400; padding-bottom:8px; font-family:Helvetica,Arial,sans-serif">
+New for you</center>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%; background:#f3f3f3; border-spacing:0; border-collapse:collapse!important=
+; font-family:Helvetica,Arial,sans-serif; font-size:14px; font-weight:200; l=
+ine-height:1.3; padding:0; text-align:left; vertical-align:top">
+<tbody>
+<tr>
+<td style=3D"width:5%; padding:0">&nbsp;</td>
+<td align=3D"center" valign=3D"top" style=3D"width:90%; border-collapse:collapse!=
+important; margin:0; padding:0">
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"padding:=
+0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr style=3D"vertical-align:top">
+<td style=3D"padding:8px; text-align:left"><a href=3D"https://community.home-as=
+sistant.io/t/how-to-shrink-the-database/152243" style=3D"text-decoration:none;=
+ font-weight:bold; color:#006699; font-weight:400; line-height:1.3; margin:0=
+; padding:0; text-decoration:none"><strong>How
+ to Shrink the Database</strong> </a>
+<p style=3D"color:#0a0a0a; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:left">
+<a href=3D"https://community.home-assistant.io/c/configuration" style=3D"text-d=
+ecoration:none; font-weight:bold; color:#006699; font-size:0.857em; white-sp=
+ace:nowrap; display:inline-block; line-height:1; margin-right:10px"><span st=
+yle=3D"background-color:#3AB54A; display:inline-block; width:10px; height:10px=
+"></span><span title=3D"Questions about configuring Home Assistant to automate=
+ your house." style=3D"color:#222222; vertical-align:text-top; line-height:1; =
+margin-left:4px; padding-left:2px; display:inline; max-width:150px; overflow=
+:hidden; text-overflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/user_avatar/community.home-assistant.io/kdm/45/53943_2.png" styl=
+e=3D"height:20px; width:20px; margin:0 5px 5px 0; border-radius:50%; clear:bot=
+h; display:inline-block; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/stevedinn/45/46433_2.png" style=3D"height:20px; width:20px; margin:=
+0 5px 5px 0; border-radius:50%; clear:both; display:inline-block; outline:0;=
+ text-decoration:none">
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/heart.png" style=3D"clear:both; display:inline-block=
+; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0; =
+text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/comment.png" style=3D"clear:none; display:inline-blo=
+ck; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0=
+; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+2</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collapse!important; li=
+ne-height:10px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top">
+<td style=3D"padding:8px; text-align:left"><a href=3D"https://community.home-as=
+sistant.io/t/problem-with-condition-within-action-odd-behaviour/152284" styl=
+e=3D"text-decoration:none; font-weight:bold; color:#006699; font-weight:400; l=
+ine-height:1.3; margin:0; padding:0; text-decoration:none"><strong>Problem
+ with condition within action - odd behaviour</strong> </a>
+<p style=3D"color:#0a0a0a; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:left">
+<a href=3D"https://community.home-assistant.io/c/configuration" style=3D"text-d=
+ecoration:none; font-weight:bold; color:#006699; font-size:0.857em; white-sp=
+ace:nowrap; display:inline-block; line-height:1; margin-right:10px"><span st=
+yle=3D"background-color:#3AB54A; display:inline-block; width:10px; height:10px=
+"></span><span title=3D"Questions about configuring Home Assistant to automate=
+ your house." style=3D"color:#222222; vertical-align:text-top; line-height:1; =
+margin-left:4px; padding-left:2px; display:inline; max-width:150px; overflow=
+:hidden; text-overflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/letter_avatar/daern/45/5_8504b32b4165840149d2c3dd52eb0686.png" s=
+tyle=3D"height:20px; width:20px; margin:0 5px 5px 0; border-radius:50%; clear:=
+both; display:inline-block; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/burningstone/45/34318_2.png" style=3D"height:20px; width:20px; marg=
+in:0 5px 5px 0; border-radius:50%; clear:both; display:inline-block; outline=
+:0; text-decoration:none">
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/heart.png" style=3D"clear:both; display:inline-block=
+; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0; =
+text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+1</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/comment.png" style=3D"clear:none; display:inline-blo=
+ck; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0=
+; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+7</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collapse!important; li=
+ne-height:10px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top">
+<td style=3D"padding:8px; text-align:left"><a href=3D"https://community.home-as=
+sistant.io/t/how-to-toggle-switch-via-mqtt-on-another-ha-instance/152227" st=
+yle=3D"text-decoration:none; font-weight:bold; color:#006699; font-weight:400;=
+ line-height:1.3; margin:0; padding:0; text-decoration:none"><strong>How
+ to toggle switch via mqtt on another Ha instance</strong> </a>
+<p style=3D"color:#0a0a0a; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:left">
+<a href=3D"https://community.home-assistant.io/c/configuration" style=3D"text-d=
+ecoration:none; font-weight:bold; color:#006699; font-size:0.857em; white-sp=
+ace:nowrap; display:inline-block; line-height:1; margin-right:10px"><span st=
+yle=3D"background-color:#3AB54A; display:inline-block; width:10px; height:10px=
+"></span><span title=3D"Questions about configuring Home Assistant to automate=
+ your house." style=3D"color:#222222; vertical-align:text-top; line-height:1; =
+margin-left:4px; padding-left:2px; display:inline; max-width:150px; overflow=
+:hidden; text-overflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/user_avatar/community.home-assistant.io/mariusthvdb/45/49008_2.p=
+ng" style=3D"height:20px; width:20px; margin:0 5px 5px 0; border-radius:50%; c=
+lear:both; display:inline-block; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/petro/45/47791_2.png" style=3D"height:20px; width:20px; margin:0 5p=
+x 5px 0; border-radius:50%; clear:both; display:inline-block; outline:0; tex=
+t-decoration:none">
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/heart.png" style=3D"clear:both; display:inline-block=
+; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0; =
+text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/comment.png" style=3D"clear:none; display:inline-blo=
+ck; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0=
+; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+5</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collapse!important; li=
+ne-height:10px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top">
+<td style=3D"padding:8px; text-align:left"><a href=3D"https://community.home-as=
+sistant.io/t/broadlink-rm4-mini/152176" style=3D"text-decoration:none; font-we=
+ight:bold; color:#006699; font-weight:400; line-height:1.3; margin:0; paddin=
+g:0; text-decoration:none"><strong>Broadlink
+ RM4 Mini</strong> </a>
+<p style=3D"color:#0a0a0a; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:left">
+<a href=3D"https://community.home-assistant.io/c/hardware" style=3D"text-decora=
+tion:none; font-weight:bold; color:#006699; font-size:0.857em; white-space:n=
+owrap; display:inline-block; line-height:1; margin-right:10px"><span style=3D"=
+background-color:#ED207B; display:inline-block; width:10px; height:10px"></s=
+pan><span title=3D"The hardware category is for discussions about hardware dev=
+ices. For example, you could talk here about whether WeMo switches are good,=
+ how to set them up in general, and alike. But if you want help configuring =
+them with Home Assistant, use the &quot;configuration&quot; category." style=
+=3D"color:#222222; vertical-align:text-top; line-height:1; margin-left:4px; pa=
+dding-left:2px; display:inline; max-width:150px; overflow:hidden; text-overf=
+low:ellipsis">Hardware</span></a>
+</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/user_avatar/community.home-assistant.io/zoogara/45/33996_2.png" =
+style=3D"height:20px; width:20px; margin:0 5px 5px 0; border-radius:50%; clear=
+:both; display:inline-block; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/myle/45/23799_2.png" style=3D"height:20px; width:20px; margin:0 5px=
+ 5px 0; border-radius:50%; clear:both; display:inline-block; outline:0; text=
+-decoration:none">
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/heart.png" style=3D"clear:both; display:inline-block=
+; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0; =
+text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/comment.png" style=3D"clear:none; display:inline-blo=
+ck; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0=
+; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+2</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collapse!important; li=
+ne-height:10px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+<tr style=3D"vertical-align:top">
+<td style=3D"padding:8px; text-align:left"><a href=3D"https://community.home-as=
+sistant.io/t/wrong-automation/152272" style=3D"text-decoration:none; font-weig=
+ht:bold; color:#006699; font-weight:400; line-height:1.3; margin:0; padding:=
+0; text-decoration:none"><strong>Wrong
+ automation</strong> </a>
+<p style=3D"color:#0a0a0a; line-height:1.3; margin:0 0 10px 0; padding:0; tex=
+t-align:left">
+<a href=3D"https://community.home-assistant.io/c/configuration" style=3D"text-d=
+ecoration:none; font-weight:bold; color:#006699; font-size:0.857em; white-sp=
+ace:nowrap; display:inline-block; line-height:1; margin-right:10px"><span st=
+yle=3D"background-color:#3AB54A; display:inline-block; width:10px; height:10px=
+"></span><span title=3D"Questions about configuring Home Assistant to automate=
+ your house." style=3D"color:#222222; vertical-align:text-top; line-height:1; =
+margin-left:4px; padding-left:2px; display:inline; max-width:150px; overflow=
+:hidden; text-overflow:ellipsis">Configuration</span></a>
+</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/user_avatar/community.home-assistant.io/maurizio53/45/63353_2.pn=
+g" style=3D"height:20px; width:20px; margin:0 5px 5px 0; border-radius:50%; cl=
+ear:both; display:inline-block; outline:0; text-decoration:none">
+<img src=3D"https://community.home-assistant.io/user_avatar/community.home-as=
+sistant.io/vdrainer/45/46389_2.png" style=3D"height:20px; width:20px; margin:0=
+ 5px 5px 0; border-radius:50%; clear:both; display:inline-block; outline:0; =
+text-decoration:none">
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/heart.png" style=3D"clear:both; display:inline-block=
+; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0; =
+text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+0</p>
+</td>
+<td style=3D"padding:8px; text-align:left"><img src=3D"https://community.home-a=
+ssistant.io/images/emails/comment.png" style=3D"clear:none; display:inline-blo=
+ck; float:left; height:20px; margin:0; max-width:100%; opacity:.4; outline:0=
+; text-decoration:none; width:auto">
+<p style=3D"color:#8f8f8f; float:left; line-height:1.3; margin:0 5px 10px 5px=
+; padding:0; text-align:left; font-weight:400">
+6</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"6" height=3D"10px" style=3D"border-collapse:collapse!important; li=
+ne-height:10px; margin:0; padding:0">
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"width:5%; padding:0">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+&nbsp; <style>
+<!--
+@media only screen {
+html
+	{min-height:100%;
+	background:#f3f3f3}
+
+	}
+@media only screen and (max-width:900px) {
+table.body img
+	{width:auto;
+	height:auto}
+table.body center
+	{min-width:0!important}
+table.body .side-spacer
+	{width:2.5%!important}
+table.body .column, table.body .columns
+	{height:auto!important;
+	box-sizing:border-box;
+	padding-left:16px!important;
+	padding-right:16px!important}
+table.body .column .column, table.body .column .columns, table.body .column=
+s .column, table.body .columns .columns
+	{padding-left:0!important;
+	padding-right:0!important}
+
+	}
+-->
+</style>
+<table dir=3D"ltr" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:10=
+0%">
+<tbody>
+<tr>
+<td align=3D"center">This summary is sent from <a href=3D"https://community.hom=
+e-assistant.io" style=3D"text-decoration:none; font-weight:bold; color:#006699=
+; color:#03a9f4">
+Home Assistant Community</a> when we haven't seen you in a while. Change <a=
+ href=3D"https://community.home-assistant.io/my/preferences/emails" style=3D"tex=
+t-decoration:none; font-weight:bold; color:#006699">
+your email settings</a>, or <a href=3D"https://community.home-assistant.io/em=
+ail/unsubscribe/0c9bc9c86b2c9b8f87d6b5c9bb0577e02d9aaa433f7c3075de8e59111796=
+bf72" style=3D"text-decoration:none; font-weight:bold; color:#006699; color:#0=
+3a9f4">
+click here</a> to unsubscribe. </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style=3D"display:none; white-space:nowrap; font:15px courier; line-heigh=
+t:0">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+</body>
+</html>
+
+
+--B_3658734834_1552789939--
+

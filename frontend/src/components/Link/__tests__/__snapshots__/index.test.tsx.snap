@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TouchableOpacity
+  onPress={[Function]}
+  style={null}
+>
+  <View>
+    <Text>
+      Hello world!
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`renders growing link 1`] = `
+<withTheme(TouchableRipple)
+  onPress={[Function]}
+  style={
+    Object {
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+>
+  <View>
+    <Text>
+      Hello world!
+    </Text>
+  </View>
+</withTheme(TouchableRipple)>
+`;

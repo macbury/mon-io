@@ -1,0 +1,47 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://nominatim.openstreetmap.org/reverse?format=geojson&lat=50.06192&lon=19.9424
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 19 Nov 2019 15:05:19 GMT
+      Server:
+      - Apache/2.4.29 (Ubuntu)
+      Access-Control-Allow-Origin:
+      - "*"
+      Access-Control-Allow-Methods:
+      - OPTIONS,GET
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains; preload
+      Expect-Ct:
+      - max-age=0, report-uri="https://openstreetmap.report-uri.com/r/d/ct/reportOnly"
+      Upgrade:
+      - h2
+      Connection:
+      - Upgrade, close
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=UTF-8
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJ0eXBlIjoiRmVhdHVyZUNvbGxlY3Rpb24iLCJsaWNlbmNlIjoiRGF0YSDCqSBPcGVuU3RyZWV0TWFwIGNvbnRyaWJ1dG9ycywgT0RiTCAxLjAuIGh0dHBzOi8vb3NtLm9yZy9jb3B5cmlnaHQiLCJmZWF0dXJlcyI6W3sidHlwZSI6IkZlYXR1cmUiLCJwcm9wZXJ0aWVzIjp7InBsYWNlX2lkIjoxMDcyMzEwODYsIm9zbV90eXBlIjoid2F5Iiwib3NtX2lkIjoxMzgyNDU1MjIsInBsYWNlX3JhbmsiOjMwLCJjYXRlZ29yeSI6ImJ1aWxkaW5nIiwidHlwZSI6InllcyIsImltcG9ydGFuY2UiOjAsImFkZHJlc3N0eXBlIjoiYnVpbGRpbmciLCJuYW1lIjoiS2FtaWVuaWNhIEhvYmVybWFub3dza2EiLCJkaXNwbGF5X25hbWUiOiJLYW1pZW5pY2EgSG9iZXJtYW5vd3NrYSwgxZp3acSZdGVnbyBLcnp5xbxhLCBTdGFyZSBNaWFzdG8sIEtyYWvDs3csIHdvamV3w7NkenR3byBtYcWCb3BvbHNraWUsIDMxLTAyOCwgUG9sc2thIiwiYWRkcmVzcyI6eyJidWlsZGluZyI6IkthbWllbmljYSBIb2Jlcm1hbm93c2thIiwicm9hZCI6IsWad2nEmXRlZ28gS3J6ecW8YSIsIm5laWdoYm91cmhvb2QiOiJTdGFyZSBNaWFzdG8iLCJzdWJ1cmIiOiJTdGFyZSBNaWFzdG8iLCJjaXR5X2Rpc3RyaWN0IjoiU3RhcmUgTWlhc3RvIiwiY2l0eSI6IktyYWvDs3ciLCJjb3VudHkiOiJLcmFrw7N3Iiwic3RhdGUiOiJ3b2pld8OzZHp0d28gbWHFgm9wb2xza2llIiwicG9zdGNvZGUiOiIzMS0wMjgiLCJjb3VudHJ5IjoiUG9sc2thIiwiY291bnRyeV9jb2RlIjoicGwifX0sImJib3giOlsxOS45NDIyNjI2LDUwLjA2MTc5NzMsMTkuOTQyNTI0LDUwLjA2MjAyNDldLCJnZW9tZXRyeSI6eyJ0eXBlIjoiUG9pbnQiLCJjb29yZGluYXRlcyI6WzE5Ljk0MjM4MjcxMTA5NzEsNTAuMDYxODgwNTVdfX1dfQ==
+    http_version: 
+  recorded_at: Tue, 19 Nov 2019 15:05:19 GMT
+recorded_with: VCR 5.0.0

@@ -1,0 +1,19 @@
+---
+en:
+  series_date:
+    to: to {{ endTime }}
+  metadata:
+    title: 'Manage Metadata'
+    add: Add
+    url:
+      add: Add website URL
+      input: Enter url
+      clear:
+        message: Do you want to remove website url?
+        title: Are you sure?
+    notes:
+      add: Add notes
+      clear:
+        message: Do you want to clear your notes?
+        title: Are you sure?
+      input: Fill in your notes

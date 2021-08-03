@@ -1,0 +1,25 @@
+---
+en:
+  success:
+    budget:
+      updated: Update category budget
+    category:
+      created: Created new category
+      updated: Updated category
+    import:
+      created: Uploaded CSV
+      destroyed: Removed import from system
+      show: Show
+      update: 'Imported transactions: {{transactionCount}}'
+    receipts:
+      attached: Attached receipt
+      destroy: Removed receipt
+      upload: Receipt file uploaded
+    series:
+      updated: Updated repeating transaction
+    sessions:
+      destroyed: Removed session with this token
+    transactions:
+      created: Added new transaction
+      destroy: Removed transaction
+      updated: Updated transaction

@@ -1,0 +1,5 @@
+mutation destroyRefreshToken ($input: DestroyRefreshTokenInput!) {
+  destroyRefreshToken(input: $input) {
+    success
+  }
+}

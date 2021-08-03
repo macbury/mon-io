@@ -1,0 +1,55 @@
+---
+en:
+  pages:
+    budget:
+      clear_budget:
+        confirm:
+          message: This will clear all budget entries for current month
+          title: Are you sure?
+        progress: Clearing budget for current month...
+      copy_last_month:
+        confirm:
+          message: Do you want to overwrite current month with budget from last month?
+          title: Are you sure?
+        progress: Importing last month, Please wait...
+      copy_missing_last_month:
+        confirm:
+          message: This will fill in missing entries in current budget from last month
+          title: Are you sure?
+        progress: Filling missing entries, Please wait...
+      empty: No data for budget
+      header:
+        Deposit:
+          budgeted: budgeted {{ amount }}
+          current: deposited {{ amount }}
+          title: Deposits
+        Expense:
+          budgeted: budgeted {{ amount }}
+          current: spend {{ amount }}
+          title: Expenses
+        Income:
+          budgeted: budgeted {{ amount }}
+          current: received {{ amount }}
+          title: Income
+        Loan:
+          budgeted: budgeted {{ amount }}
+          current: payed off {{ amount }}
+          title: Loans
+        Withdraw:
+          budgeted: budgeted {{ amount }}
+          current: withdraw {{ amount }}
+          title: Withdraws
+      menu:
+        clear_budget: Clear current month
+        copy_last_month: Copy all last month
+        fill_last_month: Fill missing
+        reload: Reload
+      summary:
+        chart:
+          left: Left
+          missing: Not planned
+          not_budgeted: Not budgeted
+          planned: Planned
+          spent: Spent
+        title: "{{month}} status"
+      title: Budget

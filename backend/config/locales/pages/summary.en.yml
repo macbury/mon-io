@@ -1,0 +1,22 @@
+---
+en:
+  pages:
+    summary:
+      chart:
+        expenses: Expenses
+      title: Summary
+      transactions:
+        add:
+          deposit: Deposit
+          income: Earned
+          loans: Pay off
+          withdraw: Withdraw
+        empty: You don't have any transactions for this month
+        item:
+          at_location: at {{location}}
+        week_groups:
+          last_week: Last week
+          this_week: Earlier this week
+          today: Today
+          tomorrow: Tomorrow
+          yesterday: Yesterday

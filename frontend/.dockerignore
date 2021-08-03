@@ -1,0 +1,11 @@
+node_modules/
+public/
+src/
+scripts/
+config/
+android/
+*.js
+.env
+.git
+.env.example
+cypress/

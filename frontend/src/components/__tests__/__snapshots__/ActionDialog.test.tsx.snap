@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<withTheme(Portal)>
+  <Styled(withTheme(Dialog))
+    dismissable={true}
+    onDismiss={[MockFunction]}
+    visible={true}
+  >
+    <withTheme(Dialog.Title)>
+      Dialog title
+    </withTheme(Dialog.Title)>
+    <Styled(View)>
+      <withTheme(List.Item)
+        description="Subtitle"
+        key="First item"
+        left={[Function]}
+        onPress={[MockFunction]}
+        title="First item"
+      />
+      <withTheme(List.Item)
+        description="Subtitle"
+        key="Second item"
+        left={[Function]}
+        onPress={[MockFunction]}
+        title="Second item"
+      />
+      <withTheme(List.Item)
+        left={[Function]}
+        onPress={[MockFunction]}
+        title="Done"
+      />
+    </Styled(View)>
+  </Styled(withTheme(Dialog))>
+</withTheme(Portal)>
+`;

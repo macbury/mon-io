@@ -1,0 +1,14 @@
+---
+en:
+  pages:
+    charts:
+      tabs:
+        expenses:
+          title: Expenses by categories
+        ie:
+          title: Expense vs Income
+        loans:
+          title: Loans
+        savings:
+          title: Savings
+      title: Statistics

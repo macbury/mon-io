@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+mkdir -p backend/android && \
+cp frontend/android/app/build/outputs/apk/release/app-universal-release.apk backend/android/monio.apk

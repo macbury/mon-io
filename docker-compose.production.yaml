@@ -1,0 +1,32 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:10
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      PGDATA: /data
+    volumes:
+      - monio-db-data:/data
+  monio:
+    image: macbury/mon.io:latest
+    restart: always
+    ports:
+      - 3000:3000
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/monio_production
+      - SECRET_KEY_BASE=f1CdeOCEXkTYh32CANNNUSmEeH1iY133A7XEi2KRCeuk7pzhBNF7lefNNiFbv4lBl4xoxH06JpO1TsKOrNJFntTI8NEBDkDnF6OR
+      - RAILS_MAX_THREADS=25
+      - SIDEKIQ_CONCURRENCY=50
+      - PIDFILE=/tmp/puma.pid
+      - WEB_CONCURRENCY=1
+      - APP_HOST=http://localhost:3000/
+      - RAILS_LOG_TO_STDOUT=true
+      - RAILS_SERVE_STATIC_FILES=true
+      - MAIN_CURRENCY=PLN
+      - MONIO_TIMEZONE=Warsaw
+    depends_on:
+      - postgres
+volumes:
+  monio-db-data:

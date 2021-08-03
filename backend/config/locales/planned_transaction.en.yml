@@ -1,0 +1,4 @@
+---
+en:
+  planned_transaction:
+    at_date: next at {{ date }}

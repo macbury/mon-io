@@ -1,0 +1,5 @@
+mutation quickLoginToken($input: QuickLoginTokenInput!) {
+  quickLoginToken(input: $input) {
+    token
+  }
+}

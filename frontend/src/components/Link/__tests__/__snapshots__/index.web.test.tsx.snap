@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TouchableOpacity
+  onPress={[Function]}
+  style={null}
+>
+  <withNavigation(LinkWithNavigation)
+    action={
+      Object {
+        "routeName": "home",
+        "type": "Navigation/NAVIGATE",
+      }
+    }
+    draggable={false}
+  >
+    <View>
+      <Text>
+        Hello world!
+      </Text>
+    </View>
+  </withNavigation(LinkWithNavigation)>
+</TouchableOpacity>
+`;
+
+exports[`renders growing link 1`] = `
+<withTheme(TouchableRipple)
+  onPress={[Function]}
+  style={
+    Object {
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+>
+  <withNavigation(LinkWithNavigation)
+    action={
+      Object {
+        "routeName": "settings",
+        "type": "Navigation/NAVIGATE",
+      }
+    }
+    draggable={false}
+  >
+    <View>
+      <Text>
+        Hello world!
+      </Text>
+    </View>
+  </withNavigation(LinkWithNavigation)>
+</withTheme(TouchableRipple)>
+`;

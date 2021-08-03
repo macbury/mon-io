@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Link
+  action={
+    Object {
+      "params": Object {
+        "createdAt": "isoDate",
+        "seriesId": "seriesId",
+      },
+      "routeName": "newPlannedTransaction",
+      "type": "Navigation/NAVIGATE",
+    }
+  }
+  onLongPress={[Function]}
+  ripple={true}
+>
+  <Styled(View)>
+    <Styled(CategoryIcon)
+      color="#fff"
+      name="MaterialIcons:repeat"
+      size={48}
+    />
+    <Styled(View)>
+      <Styled(View)>
+        <Styled(withTheme(Text))
+          color="#fff"
+        >
+          Category
+        </Styled(withTheme(Text))>
+        <Styled(withTheme(Text))>
+          next at 12th Jan 2020
+        </Styled(withTheme(Text))>
+      </Styled(View)>
+      <Styled(withTheme(Text))
+        numberOfLines={1}
+      >
+        random transaction
+      </Styled(withTheme(Text))>
+    </Styled(View)>
+    <Currency
+      amount={
+        Object {
+          "cents": 1000,
+          "currency": Object {
+            "id": "PLN",
+            "isoCode": "PLN",
+            "name": "Polish zloty",
+            "subunitToUnit": 100,
+            "symbol": "zł",
+          },
+        }
+      }
+      size={18}
+    />
+  </Styled(View)>
+</Link>
+`;

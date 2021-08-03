@@ -1,0 +1,37 @@
+---
+en:
+  pages:
+    transactions:
+      empty: Could not find transactions for current filters
+      filter:
+        bill:
+          title: Have attached bill?
+          value:
+            All: Ignore
+            Attached: Has attached bill
+            Without: Without attached bill
+        categories:
+          title: Is one of category
+        date_range:
+          from_date: From date
+          title: Date range
+          to_date: To date
+        import:
+          title: Have been imported
+          value:
+            All: Ignore
+            Imported: Created by import
+            NotImported: Created by user
+        location:
+          title: Near location
+        repeating:
+          title: Is planned?
+          value:
+            All: Ignore
+            Normal: Not planned
+            Repeating: Only planned
+      menu:
+        export_excel: Export to excel
+        reset_filter: Reset filter
+      search: Search
+      title: Transactions

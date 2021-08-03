@@ -1,0 +1,22 @@
+query allTransactions($month: TimeArgument!, $order: TransactionOrder) {
+  transactions(month: $month, order: $order) {
+    nodes {
+      id
+      amount {
+        cents
+      }
+      date
+      category {
+        name
+      }
+
+      location {
+        name
+      }
+
+      receipt {
+        id
+      }
+    }
+  }
+}

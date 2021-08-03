@@ -1,0 +1,12 @@
+---
+en:
+  pages:
+    repo:
+      download: Download APK
+      step_2:
+        summary: Scan qr code below to download monio package. After download, install it!
+        title: Download Monio APK
+      step_3:
+        button: Click here to authorize your phone
+        title: Authorize your phone
+      title: Download mobile application

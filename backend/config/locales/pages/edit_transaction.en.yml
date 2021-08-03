@@ -1,0 +1,14 @@
+---
+en:
+  pages:
+    edit_transaction:
+      menu:
+        delete: Delete
+        download_receipt: Download bill
+        show_import: Show import
+        show_link: Visit webpage
+        show_receipt: Show bill
+        show_series: Edit schedule
+        show_transaction: Show transaction
+      not_found: Could not find transaction
+      title: Edit transaction

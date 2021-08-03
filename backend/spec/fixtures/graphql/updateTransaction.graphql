@@ -1,0 +1,15 @@
+mutation updateTransaction($input: UpdateTransactionInput!) {
+  updateTransaction(input: $input) {
+    transaction {
+      id
+      date
+      amount {
+        cents
+      }
+      category {
+        id
+      }
+    }
+    errors
+  }
+}

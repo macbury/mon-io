@@ -1,0 +1,25 @@
+---
+en:
+  pages:
+    refresh_token:
+      destroy:
+        message: Do you want to remove this token?
+        title: Are you sure?
+      long_lived_access_tokens:
+        about: Create long-lived access tokens to allow your scripts to interact with your monio instance. Each token will be valid for 10 years from creation. The following long-lived access tokens are currently active. By pressing one of each token you will open api explorer where you can play with current api.
+        copy_dialog:
+          message: Copy your access token. It will not be shown again.
+          title: New long living token
+        dialog:
+          cancel: Cancel
+          destroying: Removing...
+          name: Name
+          ok: OK
+          saving: Saving token
+          title: Give the token a name
+        empty: You don't have any tokens
+        title: Long-Lived Access Tokens
+      refresh_token:
+        about: 'Each refresh token represents a login session. Refresh tokens will be automatically removed when you click log out. The following refresh tokens are currently active for your account. '
+        title: Refresh Tokens
+      title: Access Tokens

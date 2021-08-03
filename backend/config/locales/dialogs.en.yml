@@ -1,0 +1,120 @@
+---
+en:
+  dialogs:
+    budget_actions:
+      actions:
+        current:
+          Expense: Current expenses
+          Income: Current income
+          Loan: Current pay off
+          Saving: Current saving
+          Tax: Current taxes
+        done: Done
+        last:
+          Expense: Last expenses
+          Income: Last income
+          Loan: Last payed off
+          Saving: Last savings
+          Tax: Last taxes
+          budget: Last budget
+        projected: Average spending
+      title: Quick Budget
+    cancel: Cancel
+    categories:
+      cancel: Cancel
+      tabs:
+        deposit: Deposit
+        expense: Expenses
+        income: Income
+        loans: Loans
+        savings: Savings
+        tax: Tax
+        withdraw: Withdraw
+    close: Close
+    confirm: OK
+    currency:
+      all: All currencies
+      cancel: Cancel
+      filtered: Results
+      search: Search
+      title: Currency
+      used: My currencies
+    edit_series:
+      title: Configure schedule
+    icon:
+      cancel: Cancel
+      ok: Confirm
+      search: Find icon
+      tab:
+        color:
+          title: Color
+        icon:
+          title: Icon
+    map:
+      categories:
+        title: Categories
+    new_import:
+      destroy:
+        message: This action will remove all this import with all imported transactions!
+        title: Are you sure?
+      importing:
+        title: Importing transactions...
+    receipts:
+      delete:
+        message: Do you want really delete this receipt?
+        title: Delete receipt
+      upload:
+        title: Processing documents...
+    receipts_picker:
+      title: Select receipt
+    recurrence:
+      actions:
+        EveryFourWeeks: Every 4 weeks
+        EveryMonth: Every month
+        EverySixMonths: Every 6 months
+        EveryThreeMonths: Every 3 months
+        EveryTwoDays: Every 2 days
+        EveryTwoMonths: Every 2 months
+        EveryTwoWeeks: Every 2 weeks
+        EveryWeek: Every week
+        EveryYear: Every year
+        Everyday: Every day
+        None: None
+        Once: Once
+        Weekdays: Weekdays
+        Weekends: Weekends
+      title: Recurrence
+    saving: Saving...
+    share_calendar:
+      close: Close
+      copy: Copy to clipboard
+      description: You can import this url as iCal subscription to your calendar software to track when you have next payment
+      title: Schedule for calendar
+    sign_out:
+      message: Do you want to logout from the app?
+      title: Logout
+    theme:
+      options:
+        dark: Dark
+        light: Light
+        system: Use system theme
+      title: Change theme
+    transaction_date_actions:
+      actions:
+        change: Change date
+        current: Current date
+        custom: Other
+        repeat: Repeat transaction
+        series: Edit repeat
+        set_end_date: Repeat until
+        today: Today
+        yesterday: Yesterday
+      title: Change day
+    transactions:
+      delete:
+        message: Do you want to delete this transaction?
+        title: Delete transaction
+      export_excel:
+        title: Exporting excel...
+      filter:
+        title: Filter

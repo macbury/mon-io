@@ -1,0 +1,15 @@
+---
+en:
+  pages:
+    edit_budget_screen:
+      not_found: Could not find budget
+      saving: Updating budget...
+      summary:
+        Deposit: deposited {{ amount }}
+        Expense: spend {{ amount }}
+        Income: received {{ amount }}
+        Loan: paid off {{ amount }}
+        Tax: need to pay {{ amount }}
+        Withdraw: withdraw {{ amount }}
+        budgeted: budgeted {{ amount }}
+      title: Plan budget

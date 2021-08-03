@@ -1,0 +1,35 @@
+---
+en:
+  pages:
+    settings:
+      options:
+        about:
+          client: Frontend - v{{version}}
+          header: About
+          server: Backend - v{{version}}
+        main_settings:
+          currency: Main currency
+          header: Main settings
+          ocr: OCR language
+          theme:
+            options:
+              dark: Dark
+              light: Light
+              no-preference: System
+            title: Theme
+          timezone: Timezone
+        server:
+          download_backup: Download backup
+          header: Server control
+        session:
+          api_explorer: Api explorer
+          authorize_device: Authorize device
+          download_mobile_app: Download mobile application
+          header: Sessions
+          logout: Logout
+          refresh_tokens: Access tokens
+          refresh_tokens_about: Current user sessions, long living tokens and api explorer
+        users:
+          add: Add user
+          header: Users
+      title: Settings

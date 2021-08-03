@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker-compose --file docker-compose.test.yaml down --remove-orphans
+docker-compose --file docker-compose.test.yaml up --force-recreate

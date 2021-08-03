@@ -1,0 +1,8 @@
+mutation quickSignIn($input: QuickSignInInput!) {
+  quickSignIn(input: $input) {
+    refreshToken {
+      id
+    }
+    errors
+  }
+}

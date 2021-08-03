@@ -1,0 +1,18 @@
+---
+en:
+  pages:
+    series:
+      dialog:
+        calendar_url:
+          message: You can import this url as iCal subscription to your calendar software to track when you have next payment
+          title: Schedule for calendar
+        download_calendar_url: Please wait...
+        ignore:
+          message: Do you want to ignore this transaction?
+          title: Are you sure?
+      menu:
+        get_calendar_url: Schedule for calendar
+        refresh: Refresh
+      progress:
+        ignore: Updating schedule
+      title: Schedule

@@ -1,0 +1,13 @@
+require 'dotenv/load'
+
+guard 'rake', task: 'translations:dump', run_on_start: true do
+  watch(/.yml/)
+end
+
+guard 'rake', task: 'graphql:dump', run_on_start: true do
+  watch(%r{app/graphql})
+end
+
+guard 'rake', task: 'monio:dump_info', run_on_start: true do
+  watch(/Gemfile/)
+end

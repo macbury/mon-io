@@ -1,0 +1,5 @@
+query getReceipt($id: ID!) {
+  getReceipt(id: $id) {
+    id
+  }
+}

@@ -1,0 +1,5 @@
+mutation destroyTransaction($id: ID!) {
+  destroyTransaction(input: { id: $id }) {
+    success
+  }
+}

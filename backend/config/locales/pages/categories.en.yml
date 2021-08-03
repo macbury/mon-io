@@ -1,0 +1,14 @@
+---
+en:
+  pages:
+    categories:
+      actions:
+        add:
+          loan: Register new loan
+          saving: Create new saving
+      sections:
+        Expense: Expense/Tax
+        Income: Income/Salary
+        Loan: Loans
+        Saving: Saving
+      title: Categories

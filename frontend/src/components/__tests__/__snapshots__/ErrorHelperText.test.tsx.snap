@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders graphQLError and errors correctly 1`] = `
+<withTheme(HelperText)
+  type="error"
+>
+  <Component />
+</withTheme(HelperText)>
+`;
+
+exports[`renders nothing correctly 1`] = `""`;

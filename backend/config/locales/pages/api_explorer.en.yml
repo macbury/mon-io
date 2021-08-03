@@ -1,0 +1,6 @@
+---
+en:
+  pages:
+    api_explorer:
+      not_found: Could not find the long living token
+      title: Api explorer

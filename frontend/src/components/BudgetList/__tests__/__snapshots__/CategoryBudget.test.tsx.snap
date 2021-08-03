@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<Styled(Link)
+  action={
+    Object {
+      "params": Object {
+        "budgetId": "id of budget",
+        "categoryId": "0-57f0-488e-acd2-4880bff86630",
+        "kind": undefined,
+      },
+      "routeName": "editCategoryBudget",
+      "type": "Navigation/NAVIGATE",
+    }
+  }
+  grow={true}
+  ripple={true}
+>
+  <Styled(View)>
+    <Styled(View)>
+      <Styled(CategoryIcon)
+        size={48}
+      />
+    </Styled(View)>
+    <Styled(View)>
+      <Styled(View)>
+        <Styled(View)>
+          <Styled(withTheme(Text)) />
+        </Styled(View)>
+        <GoalBadge />
+      </Styled(View)>
+      <ProgressBar
+        category={
+          Object {
+            "available": Object {
+              "cents": 100,
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+            },
+            "category": Object {
+              "color": "#fff",
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+              "icon": "MaterialIcons:repeat",
+              "id": "0-57f0-488e-acd2-4880bff86630",
+              "kind": "Expense",
+              "kindByAmount": Object {
+                "negative": "Expense",
+                "positive": "Expense",
+              },
+              "name": "Category",
+              "system": true,
+            },
+            "exchangedPlanned": Object {
+              "cents": 100,
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+            },
+            "exchangedSpend": Object {
+              "cents": 100,
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+            },
+            "executed": 3,
+            "id": "0-57f0-488e-acd2-4880bff86630",
+            "kind": null,
+            "planned": Object {
+              "cents": 100,
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+            },
+            "spend": Object {
+              "cents": 100,
+              "currency": Object {
+                "id": "PLN",
+                "isoCode": "PLN",
+                "name": "Polish zloty",
+                "subunitToUnit": 100,
+                "symbol": "zł",
+              },
+            },
+            "transactions": Array [],
+            "user": Object {
+              "avatarUrl": "fakeurl",
+              "id": "0-000-000",
+              "longLivingRefreshTokens": Array [],
+              "refreshTokens": Array [],
+              "settings": Object {},
+              "username": "user0",
+            },
+          }
+        }
+      />
+      <Styled(View)>
+        <Styled(withTheme(Text))>
+          -
+        </Styled(withTheme(Text))>
+        <Styled(withTheme(Text))>
+          -
+        </Styled(withTheme(Text))>
+      </Styled(View)>
+    </Styled(View)>
+  </Styled(View)>
+</Styled(Link)>
+`;

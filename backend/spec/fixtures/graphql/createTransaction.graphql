@@ -1,0 +1,37 @@
+mutation createTransaction($input: CreateTransactionInput!){
+  createTransaction(input: $input) {
+    errors
+    transaction {
+      id
+      date
+      amount {
+        cents
+      }
+      createdAt
+
+      location {
+        id
+        city
+        country
+        lat
+        lng
+        name
+        postcode
+      }
+
+      category {
+        name
+        id
+      }
+
+      author {
+        username
+        id
+      }
+
+      receipt {
+        id
+      }
+    }
+  }
+}

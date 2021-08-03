@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders below goal 1`] = `
+<Styled(View)
+  type="Income"
+>
+  <Styled(Icon)
+    color="#fff"
+    name="MaterialCommunityIcons:check-circle"
+    size={16}
+  />
+  <withTheme(Text)>
+    2.30 zł
+  </withTheme(Text)>
+</Styled(View)>
+`;
+
+exports[`renders expense with class 1`] = `
+<Styled(withTheme(Text))
+  type="Expense"
+>
+  8.90 zł
+</Styled(withTheme(Text))>
+`;
+
+exports[`renders income with class 1`] = `
+<Styled(withTheme(Text))
+  type="Income"
+>
+  2.30 zł
+</Styled(withTheme(Text))>
+`;

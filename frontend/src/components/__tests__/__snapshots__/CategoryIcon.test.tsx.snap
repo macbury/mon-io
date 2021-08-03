@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders full version 1`] = `
+<GradientCategoryIcon
+  color="#fff"
+  name="repeat"
+  simple={false}
+  size={34}
+/>
+`;
+
+exports[`renders simple version 1`] = `
+<SimpleCategoryIcon
+  color="#ddd"
+  name="users"
+  simple={true}
+  size={24}
+/>
+`;

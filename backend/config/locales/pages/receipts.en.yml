@@ -1,0 +1,18 @@
+---
+en:
+  pages:
+    receipts:
+      header:
+        awaiting: Awaiting upload
+        csv: CSV transactions files
+        drop_files_here: Drop Bills, Invoices and CSV data to import here
+        invoices_and_receipts: Bills & Invoices awaiting for processing
+        planned: Planned transactions for this month
+      hints:
+        drop_receipts: Drop bills here!
+      menu:
+        change_category: Change category
+        delete: Delete
+        download: Download bill
+        register: Register
+      title: Bills

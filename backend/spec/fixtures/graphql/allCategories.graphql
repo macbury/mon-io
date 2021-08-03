@@ -1,0 +1,8 @@
+query allCategories {
+  allCategories {
+    nodes {
+      name
+      id
+    }
+  }
+}

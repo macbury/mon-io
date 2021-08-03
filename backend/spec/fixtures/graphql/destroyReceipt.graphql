@@ -1,0 +1,5 @@
+mutation destroyReceipt($id: ID!) {
+  destroyReceipt(input: { id: $id }) {
+    clientMutationId
+  }
+}

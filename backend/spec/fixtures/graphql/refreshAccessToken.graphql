@@ -1,0 +1,6 @@
+mutation refreshAccessToken($refreshToken: String!) {
+  refreshAccessToken(input: { refreshToken: $refreshToken }) {
+    errors
+    accessToken
+  }
+}

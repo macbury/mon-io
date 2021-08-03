@@ -1,0 +1,8 @@
+---
+en:
+  pages:
+    imports:
+      actions:
+        add: Import CSV
+      empty: You don't have any imports now. You can upload them as csv files in bills section
+      title: Imported data

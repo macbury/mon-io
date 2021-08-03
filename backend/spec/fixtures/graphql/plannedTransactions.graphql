@@ -1,0 +1,15 @@
+query plannedTransactions($month: TimeArgument!) {
+  plannedTransactions(month: $month) {
+    amount {
+      cents
+    }
+    date
+    category {
+      name
+    }
+
+    location {
+      name
+    }
+  }
+}

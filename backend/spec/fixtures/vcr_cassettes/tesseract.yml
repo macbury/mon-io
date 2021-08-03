@@ -1,0 +1,149 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/master/pol.traineddata
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Down/5.0.1
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Security-Policy:
+      - default-src 'none'; style-src 'unsafe-inline'; sandbox
+      Strict-Transport-Security:
+      - max-age=31536000
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - deny
+      X-Xss-Protection:
+      - 1; mode=block
+      Etag:
+      - W/"ec910e73d19f613a79abe9d27e27fcf3028bd0a918520ca223e3227b35c63fe3"
+      Content-Type:
+      - application/octet-stream
+      Cache-Control:
+      - max-age=300
+      X-Geo-Block-List:
+      - ''
+      X-Github-Request-Id:
+      - E3E4:064A:2B732A:3A78F6:5E0399D1
+      Accept-Ranges:
+      - bytes
+      - bytes
+      Content-Length:
+      - '11978867'
+      Date:
+      - Wed, 25 Dec 2019 17:18:09 GMT
+      Via:
+      - 1.1 varnish
+      Connection:
+      - keep-alive
+      X-Served-By:
+      - cache-fra19134-FRA
+      X-Cache:
+      - MISS
+      X-Cache-Hits:
+      - '0'
+      X-Timer:
+      - S1577294289.207254,VS0,VE757
+      Vary:
+      - Authorization,Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Fastly-Request-Id:
+      - 3ada0309fe2512502619b41b0d8bc5f413a1ec54
+      Expires:
+      - Wed, 25 Dec 2019 17:23:09 GMT
+      Source-Age:
+      - '1'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        GAAAAP
+      http_version: 
+  recorded_at: Wed, 25 Dec 2019 17:18:15 GMT
+- request:
+    method: get
+    uri: https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/master/eng.traineddata
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Down/5.0.1
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Security-Policy:
+      - default-src 'none'; style-src 'unsafe-inline'; sandbox
+      Strict-Transport-Security:
+      - max-age=31536000
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - deny
+      X-Xss-Protection:
+      - 1; mode=block
+      Etag:
+      - W/"06e3f2b66f00e3576dcb2aab4c48287d66fe313cdf7092dd71c202e9439f2539"
+      Content-Type:
+      - application/octet-stream
+      Cache-Control:
+      - max-age=300
+      X-Geo-Block-List:
+      - ''
+      X-Github-Request-Id:
+      - EEF2:1ACA:2D4B9F:3D2123:5E0399D7
+      Accept-Ranges:
+      - bytes
+      - bytes
+      Content-Length:
+      - '15400601'
+      Date:
+      - Wed, 25 Dec 2019 17:18:16 GMT
+      Via:
+      - 1.1 varnish
+      Connection:
+      - keep-alive
+      X-Served-By:
+      - cache-fra19151-FRA
+      X-Cache:
+      - MISS
+      X-Cache-Hits:
+      - '0'
+      X-Timer:
+      - S1577294295.318320,VS0,VE912
+      Vary:
+      - Authorization,Accept-Encoding
+      Access-Control-Allow-Origin:
+      - "*"
+      X-Fastly-Request-Id:
+      - 9ae8988fe3d0015d099120ab0c9d63b9df5f0f3a
+      Expires:
+      - Wed, 25 Dec 2019 17:23:16 GMT
+      Source-Age:
+      - '1'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        GAAAAP
+      http_version: 
+  recorded_at: Wed, 25 Dec 2019 17:18:18 GMT
+recorded_with: VCR 5.0.0

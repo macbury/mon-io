@@ -1,0 +1,257 @@
+---
+kind: pipeline
+type: docker
+name: deploy
+
+trigger:
+  event:
+    - promote
+
+workspace:
+  path: /app # http://plugins.drone.io/drone-plugins/drone-docker/
+
+steps:
+  - name: Build Images
+    image: docker:dind
+    commands:
+      - docker build . --file Dockerfile -t mon.io:base
+      - docker build . --file Dockerfile.test -t mon.io:test
+    volumes:
+      - name: docker
+        path: /var/run/docker.sock
+  - name: Build Shared
+    image: mon.io:test
+    volumes:
+      - name: shared
+        path: /shared
+    environment:
+      NODE_ENV: production
+      RAILS_ENV: production
+    commands:
+      - echo $(git rev-parse --verify HEAD) > backend/COMMIT
+      - 'echo "{ \"name\":\"monio\", \"displayName\":\"mon.io\", \"version\": $DRONE_BUILD_NUMBER }" > frontend/app.json'
+      - cat frontend/app.json
+      - cd backend/
+      - cp .env.example .env
+      - cp ../frontend/app.json .
+      - bundle exec rake monio:dump_info translations:dump graphql:schema:dump
+      - cp ../frontend/src/config/locales.json /shared
+      - cp ../frontend/schema.graphql /shared
+      - cp ../frontend/schema.json /shared
+      - cp ../frontend/src/about.json /shared
+      - cp COMMIT /shared
+    depends_on:
+      - Build Images
+  - name: Build Web
+    image: node:12.16.2-stretch
+    volumes:
+      - name: shared
+        path: /shared
+    environment:
+      RAILS_ENV: production
+      NODE_ENV: production
+      API_ENDPOINT: /api
+    commands:
+      - export COMMIT=$(cat /shared/COMMIT)
+      - cd frontend/
+      - cp .env.example .env
+      - cp /shared/locales.json src/config/
+      - cp /shared/schema.graphql src/
+      - cp /shared/about.json src/
+      - cp /shared/schema.json src/
+      - yarn
+      - yarn graphql:codegen
+      - yarn build:web
+      - mv build/ /shared
+    depends_on:
+      - Build Shared
+  - name: Build Android
+    image: mon.io:test
+    volumes:
+      - name: shared
+        path: /shared
+    environment:
+      NODE_ENV: production
+      API_ENDPOINT: /api
+      MONIO_ANDROID_STOREPASS:
+        from_secret: MONIO_ANDROID_STOREPASS
+    commands:
+      - cd frontend
+      - yarn
+      - cp /shared/locales.json src/config/
+      - cp /shared/schema.graphql src/
+      - cp /shared/about.json src/
+      - cp /shared/schema.json src/
+      - cat /shared/about.json
+      - cd android
+      - ./gradlew assembleRelease
+      - cd ../../
+      - mv frontend/android/app/build/outputs/apk/release/app-universal-release.apk /shared/monio.apk
+    depends_on:
+      - Build Web
+  - name: Build Docker Image
+    image: docker:dind
+    environment:
+      DOCKER_USERNAME:
+        from_secret: DOCKER_USERNAME
+      DOCKER_PASSWORD:
+        from_secret: DOCKER_PASSWORD
+    commands:
+      - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+      - cp /shared/COMMIT backend/
+      - cp frontend/app.json backend/
+      - cd backend/
+      - mkdir -p android
+      - mv /shared/monio.apk android/monio.apk
+      - docker build . -t mon.io:backend
+      - cd ../frontend/
+      - mv /shared/build .
+      - docker build . -t macbury/mon.io:latest
+      - docker push macbury/mon.io:latest
+      - docker tag macbury/mon.io:latest macbury/mon.io:$DRONE_BUILD_NUMBER
+      - docker push macbury/mon.io:$DRONE_BUILD_NUMBER
+    volumes:
+      - name: docker
+        path: /var/run/docker.sock
+      - name: shared
+        path: /shared
+    depends_on:
+      - Build Shared
+      - Build Web
+      - Build Android
+  - name: send
+    image: plugins/webhook
+    depends_on:
+      - Build Docker Image
+    when:
+      status:
+        - failure
+        - success
+    settings:
+      urls:
+        from_secret: GOTIFY_ENDPOINT
+      content_type: application/json
+      method: POST
+      template: |
+        {
+          "title": "Drone {{ repo.name }}",
+          "message": "Deploy completed with status: {{ build.status }}"
+        }
+
+
+volumes:
+  - name: docker
+    host:
+      path: /var/run/docker.sock
+  - name: shared
+    temp: {}
+
+---
+kind: pipeline
+type: docker
+name: test
+
+trigger:
+  event:
+    - push
+
+workspace:
+  path: /app
+
+services:
+  - name: postgres
+    image: postgres:10
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+
+steps:
+  - name: Build images
+    image: docker:dind
+    commands:
+      - docker build . -t mon.io:base
+      - docker build . --file Dockerfile.test -t mon.io:test
+    volumes:
+      - name: docker
+        path: /var/run/docker.sock
+  - name: Prepare env
+    image: mon.io:test
+    volumes:
+      - name: shared
+        path: /shared
+    environment:
+      RAILS_ENV: test
+      DATABASE_URL: postgresql://postgres:postgres@postgres:5432/
+    commands:
+      - cd backend/
+      - cp .env.example .env
+      - bin/rake db:drop db:create db:migrate monio:dump_info translations:dump graphql:schema:dump
+      - cp /app/frontend/src/config/locales.json /shared
+      - cp ../frontend/schema.graphql /shared
+      - cp ../frontend/schema.json /shared
+    depends_on:
+      - Build images
+  - name: rubocop
+    image: mon.io:test
+    environment:
+      RAILS_ENV: test
+    commands:
+      - cd backend/
+      - bin/rubocop app/
+      - bin/rubocop spec/
+      - bin/rubocop Gemfile
+    depends_on:
+      - Build images
+  - name: rspec
+    image: mon.io:test
+    environment:
+      RAILS_ENV: test
+      DATABASE_CLEANER_ALLOW_REMOTE_DATABASE_URL: true
+      DATABASE_URL: postgresql://postgres:postgres@postgres:5432/
+    commands:
+      - cd backend/
+      - bin/rspec --format documentation spec/
+    depends_on:
+      - rubocop
+  - name: yarn test
+    image: mon.io:test
+    volumes:
+      - name: shared
+        path: /shared
+    commands:
+      - cd frontend/
+      - cp .env.example .env
+      - cp /shared/locales.json /app/frontend/src/config/
+      - cp /shared/schema.graphql /app/frontend/src/
+      - cp /shared/schema.json /app/frontend/src/
+      - yarn
+      - yarn graphql:codegen
+      - yarn test
+      - yarn build:web
+    depends_on:
+      - rspec
+  - name: send
+    image: plugins/webhook
+    when:
+      status:
+        - failure
+        - success
+    settings:
+      urls:
+        from_secret: GOTIFY_ENDPOINT
+      content_type: application/json
+      method: POST
+      template: |
+        {
+          "title": "Test {{ repo.name }}",
+          "message": "Test completed with status: {{ build.status }}"
+        }
+    depends_on:
+      - yarn test
+
+volumes:
+  - name: docker
+    host:
+      path: /var/run/docker.sock
+  - name: shared
+    temp: {}

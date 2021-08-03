@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Styled(withTheme(Appbar.Header))
+  dark={true}
+  style={
+    Object {
+      "borderBottomWidth": 1,
+      "elevation": 0,
+    }
+  }
+>
+  <MenuButton />
+  <withTheme(Appbar.Content)
+    title=""
+  />
+  <Styled(NetworkProgressBar) />
+</Styled(withTheme(Appbar.Header))>
+`;

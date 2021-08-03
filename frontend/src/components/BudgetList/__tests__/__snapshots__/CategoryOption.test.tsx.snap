@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<Styled(withTheme(TouchableRipple))
+  onPress={[Function]}
+  rippleColor="#fff3C"
+  width={60}
+>
+  <Styled(View)>
+    <Styled(withTheme(Text))
+      color="#fff"
+      numberOfLines={1}
+    >
+      Category
+    </Styled(withTheme(Text))>
+    <Styled(CategoryIcon)
+      color="#fff"
+      name="MaterialIcons:repeat"
+      present={false}
+      size={40}
+    />
+    <Styled(withTheme(Text))
+      color="#fff"
+    >
+      -
+    </Styled(withTheme(Text))>
+  </Styled(View)>
+</Styled(withTheme(TouchableRipple))>
+`;

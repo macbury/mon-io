@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Styled(ImageBackground)
+  resizeMode="cover"
+  style={
+    Object {
+      "backgroundColor": "#fff",
+    }
+  }
+>
+  <Styled(View)>
+    <Styled(View)>
+      <Styled(withTheme(Text))>
+        Category
+      </Styled(withTheme(Text))>
+      <Styled(withTheme(Text))>
+        January 2019
+      </Styled(withTheme(Text))>
+    </Styled(View)>
+    <Styled(View)>
+      <Icon
+        color="#fff"
+        name="MaterialIcons:repeat"
+        size={38}
+      />
+    </Styled(View)>
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(View)
+      value={3}
+    />
+  </Styled(View)>
+  <Styled(View)>
+    <Styled(withTheme(Text))>
+      pages.edit_budget_screen.summary.undefined
+    </Styled(withTheme(Text))>
+    <Styled(withTheme(Text))>
+      budgeted 1.00 zł
+    </Styled(withTheme(Text))>
+  </Styled(View)>
+</Styled(ImageBackground)>
+`;

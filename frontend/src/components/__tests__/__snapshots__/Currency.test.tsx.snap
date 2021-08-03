@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`do not throw error for empty amount 1`] = `
+<Styled(View)>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0
+    .
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    size={32}
+  >
+    EUR
+  </Styled(withTheme(Text))>
+</Styled(View)>
+`;
+
+exports[`do not throw error for empty currency 1`] = `
+<Styled(View)>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0
+    .
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    size={32}
+  >
+    EUR
+  </Styled(withTheme(Text))>
+</Styled(View)>
+`;
+
+exports[`renders bitcoin 1`] = `
+<Styled(View)>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0
+    .
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    0023052
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    size={32}
+  >
+    ₿
+  </Styled(withTheme(Text))>
+</Styled(View)>
+`;
+
+exports[`renders correctly 1`] = `
+<Styled(View)>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    10
+    .
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    expense={0}
+    size={32}
+  >
+    00
+  </Styled(withTheme(Text))>
+  <Styled(withTheme(Text))
+    size={32}
+  >
+    zł
+  </Styled(withTheme(Text))>
+</Styled(View)>
+`;
